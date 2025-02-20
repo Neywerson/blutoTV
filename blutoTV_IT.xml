@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="20-02-2025 16:02:20">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="20-02-2025 16:11:35">
 <tv>
     <channel id="636a4431b7fca900075039e2">
         <display-name>VH1+ Love Music</display-name>
@@ -28819,7 +28819,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Big air, celebrations, animals and beer. What else do you need in life?</desc>
         <icon src="https://images.pluto.tv/series/60a4d696da2f9000132f736f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608014d19a26320007c92ab6" start="20250221191700 +0000" stop="20250221230000 +0000">
+    <programme channel="608014d19a26320007c92ab6" start="20250221191700 +0000" stop="20250221194500 +0000">
+        <title>FailFactory: Fearless Failure</title>
+        <desc>Bravery in the face of danger is not always rewarded.</desc>
+        <icon src="https://images.pluto.tv/series/60a4d696da2f9000132f736f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608014d19a26320007c92ab6" start="20250221194500 +0000" stop="20250221201300 +0000">
+        <title>FailFactory: Wild Wild Kingdom</title>
+        <desc>Lots of tails... but mostly fails.</desc>
+        <icon src="https://images.pluto.tv/series/60a4d696da2f9000132f736f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608014d19a26320007c92ab6" start="20250221201300 +0000" stop="20250221230000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608014d19a26320007c92ab6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28849,7 +28859,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
         <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f48c95132a00075fd859" start="20250221191200 +0000" stop="20250221230000 +0000">
+    <programme channel="6093f48c95132a00075fd859" start="20250221191200 +0000" stop="20250221194200 +0000">
+        <title>Just for Laughs</title>
+        <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
+        <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f48c95132a00075fd859" start="20250221194200 +0000" stop="20250221201200 +0000">
+        <title>Just for Laughs</title>
+        <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
+        <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f48c95132a00075fd859" start="20250221201200 +0000" stop="20250221230000 +0000">
         <title>Just for Laughs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f48c95132a00075fd859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28859,7 +28879,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
         <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f9281db477000759fce0" start="20250221193000 +0000" stop="20250221230000 +0000">
+    <programme channel="6093f9281db477000759fce0" start="20250221193000 +0000" stop="20250221200000 +0000">
+        <title>Super! SpongeBob</title>
+        <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
+        <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9281db477000759fce0" start="20250221200000 +0000" stop="20250221203000 +0000">
+        <title>Super! SpongeBob</title>
+        <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
+        <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9281db477000759fce0" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>Super! SpongeBob</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f9281db477000759fce0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28869,7 +28899,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Alante ha passato gli ultimi 8 anni a pianificare una vita con Nevah, conosciuta online. A causa delle sue continue sparizioni Alante chiede aiuto a Nev e Max.</desc>
         <icon src="https://images.pluto.tv/series/60e31e8f83c54e0013988985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f9ed2c75660007322bb7" start="20250221192431 +0000" stop="20250221230000 +0000">
+    <programme channel="6093f9ed2c75660007322bb7" start="20250221192431 +0000" stop="20250221201131 +0000">
+        <title>Catfish: False Identità: Tyler &amp; Amanda</title>
+        <desc>Tyler è un ragazzo popolare, e ha una relazione online con Amanda da oltre un anno e mezzo. Ma i suoi amici nutrono dei dubbi a riguardo... avranno ragione?</desc>
+        <icon src="https://images.pluto.tv/series/60e31e8f83c54e0013988985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9ed2c75660007322bb7" start="20250221201131 +0000" stop="20250221230000 +0000">
         <title>Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28879,7 +28914,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Questa sera al ristorante arriverà il famoso ristoratore Joe Bastiancontrarich e l'astrologo Paolo Bronko che assaggerano un risotto molto speciale.</desc>
         <icon src="https://images.pluto.tv/series/66349f25c2d6a90013ad4ce5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609404b0a8ec810007d8de9d" start="20250221193435 +0000" stop="20250221230000 +0000">
+    <programme channel="609404b0a8ec810007d8de9d" start="20250221193435 +0000" stop="20250221200802 +0000">
+        <title>Bastardi: Francesco e la figlia del capo</title>
+        <desc>Francesca Reggiani segnala a tutte le telespettatrici chi sono, dove vivono e come si comportano i 'bastardi' che infestano le storie d'amore.</desc>
+        <icon src="https://images.pluto.tv/series/6630a0c8acbc680013147676/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609404b0a8ec810007d8de9d" start="20250221200802 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Scherzi e risate</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28889,7 +28929,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Catelynn è una studentessa. Tyler, il suo ragazzo, è anche il suo migliore amico. Non potendo fare affidamento sulle rispettive famiglie i ragazzi hanno fiducia nel loro forte legame.</desc>
         <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60940a07d88ba90007b9cb71" start="20250221193400 +0000" stop="20250221230000 +0000">
+    <programme channel="60940a07d88ba90007b9cb71" start="20250221193400 +0000" stop="20250221204100 +0000">
+        <title>16 anni e Incinta: Dopo il parto</title>
+        <desc>Dr. Drew interviene su alcuni importanti argomenti con le sei ragazze che sono state protagoniste delle storie raccontate da "16 e Incinta".</desc>
+        <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60940a07d88ba90007b9cb71" start="20250221204100 +0000" stop="20250221230000 +0000">
         <title>16 Anni e Incinta</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28899,7 +28944,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Ritorna Alicia, la ex di Cory, mandando la casa nel caos più totale. Un'eliminazione lascerà tutti a bocca aperta.</desc>
         <icon src="https://images.pluto.tv/series/60ebf486d96ddc001314daad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60940ebad67fd900072382db" start="20250221194300 +0000" stop="20250221230000 +0000">
+    <programme channel="60940ebad67fd900072382db" start="20250221194300 +0000" stop="20250221202900 +0000">
+        <title>Ex On The Beach US: Episodio 7</title>
+        <desc>Paulie e Lexi definiscono finalmente la loro relazione, ma un passaggio alla Baracca dei Segreti minaccia il loro rapporto.</desc>
+        <icon src="https://images.pluto.tv/series/60ebf486d96ddc001314daad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60940ebad67fd900072382db" start="20250221202900 +0000" stop="20250221230000 +0000">
         <title>Ex On The Beach</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60940ebad67fd900072382db/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28909,7 +28959,22 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>In questo speciale episodio, raduniamo tutti i partecipanti per sapere cos'e' successo nelle loro vite dopo che hanno lasciato la casa.</desc>
         <icon src="https://images.pluto.tv/series/611e760ce4122100137b2c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61925f874b1ec000075e700a" start="20250221190200 +0000" stop="20250221230000 +0000">
+    <programme channel="61925f874b1ec000075e700a" start="20250221190200 +0000" stop="20250221192500 +0000">
+        <title>The Ex and The Why?</title>
+        <desc>Levi ha rotto con Chris e vuole una seconda chance. Andrew ha tradito Laura e chiede perdono</desc>
+        <icon src="https://images.pluto.tv/series/61ee6a3ef72e7b001a711b63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61925f874b1ec000075e700a" start="20250221192500 +0000" stop="20250221194800 +0000">
+        <title>The Ex and The Why?</title>
+        <desc>Jess ha scoperto il tradimento di Hannah ed e' scappata in Alaska, ma ora ha cambiato idea. Blake ha rotto con Carmen ma pensa di aver sbagliato</desc>
+        <icon src="https://images.pluto.tv/series/61ee6a3ef72e7b001a711b63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61925f874b1ec000075e700a" start="20250221194800 +0000" stop="20250221201100 +0000">
+        <title>The Ex and The Why?</title>
+        <desc>Elizabeth ha rotto con Adam per la sua gelosia, ma ora lui vorrebbe sposarla. Diamond ha tradito Altone ma ha capito di aver perso l'amore della vita</desc>
+        <icon src="https://images.pluto.tv/series/61ee6a3ef72e7b001a711b63/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61925f874b1ec000075e700a" start="20250221201100 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61925f874b1ec000075e700a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28919,7 +28984,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>I ragazzi tornano da Barcellona con alcune cose da chiarire: la dichiarazione d'amore di Charlotte a Gary e la resa dei conti finale tra Vicky e Ricci. Le ragazze organizzano una festa a tema.</desc>
         <icon src="https://images.pluto.tv/series/617a51626b2c51001aee1dd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619263ee9541940007d20d60" start="20250221194000 +0000" stop="20250221230000 +0000">
+    <programme channel="619263ee9541940007d20d60" start="20250221194000 +0000" stop="20250221203000 +0000">
+        <title>Geordie Shore: It All Kicks Off</title>
+        <desc>Charlotte e Holly litigano furiosamente con Marnie in discoteca. L'amicizia di Gary e Scott rischia di essere compromessa quando Scott scopre che Gary si spinge oltre con Marnie.</desc>
+        <icon src="https://images.pluto.tv/series/617a51626b2c51001aee1dd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619263ee9541940007d20d60" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>Geordie Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619263ee9541940007d20d60/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28929,7 +28999,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Pif si arma di telecamera e segue per alcuni giorni Fabrizio Corona tra brutti ceffi, modelle, musica, locali, minacce, corse ma anche risate, confessioni e smascheramenti.</desc>
         <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fbd3f0733df400076c9a2d" start="20250221193400 +0000" stop="20250221230000 +0000">
+    <programme channel="61fbd3f0733df400076c9a2d" start="20250221193400 +0000" stop="20250221200100 +0000">
+        <title>Il Testimone: Vocazione</title>
+        <desc>Cosa sente chi riceve la chiamata? Cosa spinge un ragazzo ad entrare in seminario? Com'è una suora prima di mettere il velo? Due storie di vocazione davvero particolari.</desc>
+        <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fbd3f0733df400076c9a2d" start="20250221200100 +0000" stop="20250221230000 +0000">
         <title>Il Testimone</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28939,7 +29014,22 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>A Dimmsdale stanno per trasmettere in televisione il film horror &amp;quot;Io sono stato un ragazzo-moscone&amp;quot; ma a Timmy non è permesso vederlo. // Timmy chiede di avere un'altra fata per poter realizzare sempre più desideri.</desc>
         <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62b57a6752a0060008bc65cd" start="20250221190800 +0000" stop="20250221230000 +0000">
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221190800 +0000" stop="20250221193400 +0000">
+        <title>Due Fantagenitori: Crocker l'Incredulo / Cosmo Supereroe</title>
+        <desc>Una strana terapista convince il perfido signor Crocker che le fate non esistono...sarà vero? // Wanda rimprovera Cosmo per la sua inefficienza. Cosmo si offende e crea su se stesso un personaggio simile ad un supereroe.</desc>
+        <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221193400 +0000" stop="20250221200000 +0000">
+        <title>Due Fantagenitori: Babbocadabra / Timmy e le rape</title>
+        <desc>Ogni anno il padre di Timmy cerca di stupire gli spettatori della serata dei &amp;quot;Genitori Talentuosi&amp;quot; con il suo pessimo spettacolo di magia. // Timmy non sopporta proprio di mangiare le rape!</desc>
+        <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221200000 +0000" stop="20250221202600 +0000">
+        <title>Due Fantagenitori: Ossessivamente mio / Quel Talento di Timmy</title>
+        <desc>Durante una parata Vichy resta incollata alla strada e Timmy la salva. A causa di questo Vichy si trasformerà in una grande amica per Timmy... // Timmy scopre d'avere un talento tutto speciale per la musica.</desc>
+        <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221202600 +0000" stop="20250221230000 +0000">
         <title>Due Fantagenitori</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62b57a6752a0060008bc65cd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28949,7 +29039,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Mentre i terrroristi liberano la parte malvagia dell'immaginazione, il governo medita di buttare un'atomica su Imaginationland.</desc>
         <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bc1f502b70e3000706298e" start="20250221192337 +0000" stop="20250221230000 +0000">
+    <programme channel="62bc1f502b70e3000706298e" start="20250221192337 +0000" stop="20250221194837 +0000">
+        <title>South Park: Imaginationland: Episodio III</title>
+        <desc>Grazie a Butters, i personaggi del Bene vincono e Imaginationland si salva dalla distruzione. Kyle allora ammette di aver perso la scommessa.</desc>
+        <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bc1f502b70e3000706298e" start="20250221194837 +0000" stop="20250221201337 +0000">
+        <title>South Park: Rockstar System</title>
+        <desc>Kyle e Stan si appassionano al videogioco Guitar Hero e diventano dei veri campioni. Stan però realizza che senza Kyle può raggiungere ben altri traguardi.</desc>
+        <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bc1f502b70e3000706298e" start="20250221201337 +0000" stop="20250221230000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bc1f502b70e3000706298e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28959,7 +29059,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Kailyn trova un appartamento grazie a un ente no-profit. Jenelle lascia Kieffer e vuole tornare da sua madre. Chelsea viene operata e Adam si occupa di Aubree. Corey e Leah seguono le cure di Ali.</desc>
         <icon src="https://images.pluto.tv/series/617a513a6b2c51001aee134c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e7fc8c0d061100083946a9" start="20250221192400 +0000" stop="20250221230000 +0000">
+    <programme channel="62e7fc8c0d061100083946a9" start="20250221192400 +0000" stop="20250221201000 +0000">
+        <title>Teen Mom 2: No looking back</title>
+        <desc>Leah scopre che Ali non ha problemi al cervello. Jenelle fa pace con sua madre, mentre Chelsea e Adam litigano furiosamente.</desc>
+        <icon src="https://images.pluto.tv/series/617a513a6b2c51001aee134c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e7fc8c0d061100083946a9" start="20250221201000 +0000" stop="20250221230000 +0000">
         <title>Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28969,7 +29074,22 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>In questo episodio di Pimp My Ride, Xzibit incontra Josh, uno snowboarder, con una Chevy Blazer del '87 completamente ricoperta dal fango.</desc>
         <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="636a4eaf77279a0007f14861" start="20250221190400 +0000" stop="20250221230000 +0000">
+    <programme channel="636a4eaf77279a0007f14861" start="20250221190400 +0000" stop="20250221192800 +0000">
+        <title>Pimp My Ride: '87 Blazer</title>
+        <desc>In questo episodio di Pimp My Ride, Xzibit e i ragazzi pimpano la Chevrolet K-5 di Josh.</desc>
+        <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="636a4eaf77279a0007f14861" start="20250221192800 +0000" stop="20250221195200 +0000">
+        <title>Pimp My Ride: '88 Pulsar</title>
+        <desc>In questo episodio di Pimp My Ride, Xzibit e i ragazzi pimpano la Nissan Pulsar del '88 di Mary.</desc>
+        <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="636a4eaf77279a0007f14861" start="20250221195200 +0000" stop="20250221201600 +0000">
+        <title>Pimp My Ride: Thunderbird</title>
+        <desc>Xzibit e i ragazzi ridanno la forza del tuono ad una Ford Thunderbird del 1965.</desc>
+        <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="636a4eaf77279a0007f14861" start="20250221201600 +0000" stop="20250221230000 +0000">
         <title>Pimp My Ride</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/636a4eaf77279a0007f14861/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28979,7 +29099,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Regate, grandi eventi, saloni nautici tutto dal mondo della cantieristica a vela e a motore.</desc>
         <icon src="https://images.pluto.tv/series/6140ae0f08ae6e0007f9b20c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb58aa60bc8f0008caa8f8" start="20250221191600 +0000" stop="20250221230000 +0000">
+    <programme channel="63eb58aa60bc8f0008caa8f8" start="20250221191600 +0000" stop="20250221201800 +0000">
+        <title>The Boat Show</title>
+        <desc>Regate, grandi eventi, saloni nautici tutto dal mondo della cantieristica a vela e a motore.</desc>
+        <icon src="https://images.pluto.tv/series/6140ae0f08ae6e0007f9b20c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb58aa60bc8f0008caa8f8" start="20250221201800 +0000" stop="20250221230000 +0000">
         <title>The Boat Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb58aa60bc8f0008caa8f8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28989,7 +29114,22 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Con l'aiuto dello spirito di suo padre, il Faraone e i suoi guardiani sconfiggono Diabound del ladro Bakura e impediscono all'orribile Zorc di resuscitare... O forse no, quando un traditore viene smascherato tra i guardiani!</desc>
         <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb82e24e83e70008ab735f" start="20250221190525 +0000" stop="20250221230000 +0000">
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221190525 +0000" stop="20250221192902 +0000">
+        <title>Yu-Gi-Oh!: La vendetta di Aknadin</title>
+        <desc>Il segreto è svelato! Il viaggio del Faraone era più di un semplice viaggio nel passato – è il più grande Gioco delle Ombre mai creato!</desc>
+        <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221192902 +0000" stop="20250221195239 +0000">
+        <title>Yu-Gi-Oh!: Divisa forzata</title>
+        <desc>L'incredibile energia ombra di Zorc ha riportato in vita Bakura e il suo Diabound!</desc>
+        <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221195239 +0000" stop="20250221201549 +0000">
+        <title>Yu-Gi-Oh!: Dominio mentale</title>
+        <desc>Karim è il prossimo a cadere sotto l'attacco del ladro Bakura, e il bandito saccheggiatore non si fermerà finché non avrà conquistato il resto!</desc>
+        <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221201549 +0000" stop="20250221230000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28999,7 +29139,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Jeremy Clarkson, Richard Hammond e James May devono mettere alla prova delle berline a quattro porte adatte anche per un track day: il tutto con un budget di 5000 sterline.</desc>
         <icon src="https://images.pluto.tv/series/652524d82a6001001a82925e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c109a4798def0008a6e03e" start="20250221192500 +0000" stop="20250221230000 +0000">
+    <programme channel="64c109a4798def0008a6e03e" start="20250221192500 +0000" stop="20250221202500 +0000">
+        <title>Top Gear: Find The Greatest Four-Door Supercar By Driving Wedding Guests</title>
+        <desc>Jeremy Clarkson, Richard Hammond e James May testano l'Aston Martin Rapide, la Porsche Panamera Turbo e la Maserati Quattroporte facendo da autisti a un vero matrimonio.</desc>
+        <icon src="https://images.pluto.tv/series/652524d82a6001001a82925e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c109a4798def0008a6e03e" start="20250221202500 +0000" stop="20250221230000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29009,7 +29154,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Returning champions Carbide mount their title defence against some of the toughest machines in the competition. They will have to fight through brutal group battles and nightmarish knockout rounds to make it to the heat final.</desc>
         <icon src="https://images.pluto.tv/series/65800a79a95cb10014b6d9c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="651581ba6a84140008593586" start="20250221190600 +0000" stop="20250221230000 +0000">
+    <programme channel="651581ba6a84140008593586" start="20250221190600 +0000" stop="20250221201500 +0000">
+        <title>Robot Wars</title>
+        <desc>Competing in this heat are: Apex, Vulture, Terrorhurtz, Track-Tion, Bucky the Robot and Rapid. The battles are all overseen by judges Professor Noel Sharkey, Professor Sethu Vijayakumar and Dr Lucy Rogers.</desc>
+        <icon src="https://images.pluto.tv/series/65800a79a95cb10014b6d9c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="651581ba6a84140008593586" start="20250221201500 +0000" stop="20250221230000 +0000">
         <title>Robot Wars by MECH+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/651581ba6a84140008593586/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29019,7 +29169,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Guardiamo una selezione di cortometraggi queer, storie divertenti e documentari ispirazione.</desc>
         <icon src="https://images.pluto.tv/series/66a230fa61ac50001437c268/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656d86e957fe4a00087e0e94" start="20250221193700 +0000" stop="20250221230000 +0000">
+    <programme channel="656d86e957fe4a00087e0e94" start="20250221193700 +0000" stop="20250221200800 +0000">
+        <title>OUTshorts</title>
+        <desc>Guardiamo una selezione di cortometraggi queer, storie divertenti e documentari ispirazione.</desc>
+        <icon src="https://images.pluto.tv/series/66a230fa61ac50001437c268/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656d86e957fe4a00087e0e94" start="20250221200800 +0000" stop="20250221230000 +0000">
         <title>PRIDEtv</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656d86e957fe4a00087e0e94/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29029,7 +29184,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Monster Jam Racing and Freestyle action from NRG Stadium on January 1, 2015.</desc>
         <icon src="https://images.pluto.tv/series/65dd0393dfc40a001450f6a9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65bce7f1d77d450008b3a430" start="20250221192600 +0000" stop="20250221230000 +0000">
+    <programme channel="65bce7f1d77d450008b3a430" start="20250221192600 +0000" stop="20250221201900 +0000">
+        <title>Monster Jam Stadium Championship Series</title>
+        <desc>Ryan Anderson and Son-Uva Digger are the new series points leaders as Stadium Championship Series West rides into Houston.</desc>
+        <icon src="https://images.pluto.tv/series/65dd0393dfc40a001450f6a9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bce7f1d77d450008b3a430" start="20250221201900 +0000" stop="20250221230000 +0000">
         <title>Monster Jam</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65bce7f1d77d450008b3a430/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29039,7 +29199,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>In questo episodio di LOL i paramedici fanno quello che possono per prendersi cura dei loro pazienti, un uomo si trova in una situazione imbarazzante in un bagno pubblico e un poltrone usa tutti i mezzi necessari per stare sul divano.</desc>
         <icon src="https://images.pluto.tv/series/65f95e7603625d0013cbd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d7211d0d45610008ffcf92" start="20250221192329 +0000" stop="20250221230000 +0000">
+    <programme channel="65d7211d0d45610008ffcf92" start="20250221192329 +0000" stop="20250221194744 +0000">
+        <title>LOL ComediHa!</title>
+        <desc>In questo episodio l'amore è ovunque! Osservate una cerimonia nuziale in cui un padre è riluttante a dare in sposa la figlia, un bel pretendente che tenta di interpretare Romeo per la sua Giulietta e un insegnante di biologia appassionato di rane.</desc>
+        <icon src="https://images.pluto.tv/series/65f95e7603625d0013cbd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7211d0d45610008ffcf92" start="20250221194744 +0000" stop="20250221201159 +0000">
+        <title>LOL ComediHa!</title>
+        <desc>In questo episodio di LOL:-), calatevi nei panni di un'infermiera inesperta che continua a commettere errori con i pazienti durante una donazione di sangue e vedete una donna esausta che fa di tutto per soffocare l'incessante russare del marito.</desc>
+        <icon src="https://images.pluto.tv/series/65f95e7603625d0013cbd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7211d0d45610008ffcf92" start="20250221201159 +0000" stop="20250221230000 +0000">
         <title>LOL:-)</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29054,7 +29224,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Realmadrid TV è il canale del Real Madrid con approfondimenti sulla squadra di calcio spagnola. Il canale è disponibile su Pluto TV in inglese.</desc>
         <icon src="https://images.pluto.tv/series/660f9fedc8311c0008be9ee9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f955ff18036500084e88fc" start="20250221193000 +0000" stop="20250221230000 +0000">
+    <programme channel="65f955ff18036500084e88fc" start="20250221193000 +0000" stop="20250221200000 +0000">
+        <title>Realmadrid TV</title>
+        <desc>Realmadrid TV è il canale del Real Madrid con approfondimenti sulla squadra di calcio spagnola. Il canale è disponibile su Pluto TV in inglese.</desc>
+        <icon src="https://images.pluto.tv/series/660f9fedc8311c0008be9ee9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f955ff18036500084e88fc" start="20250221200000 +0000" stop="20250221203000 +0000">
+        <title>Realmadrid TV</title>
+        <desc>Realmadrid TV è il canale del Real Madrid con approfondimenti sulla squadra di calcio spagnola. Il canale è disponibile su Pluto TV in inglese.</desc>
+        <icon src="https://images.pluto.tv/series/660f9fedc8311c0008be9ee9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f955ff18036500084e88fc" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>Realmadrid TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65f955ff18036500084e88fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29064,7 +29244,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>L'avvenente ministra bullizza il suo assistente. Gli assicuratori Jackson e Johnson cantano &amp;quot;C'è un bottone in fondo al cuore, è il bottone dell'amore...&amp;quot;.</desc>
         <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6602acadb2abe500081cf28a" start="20250221190926 +0000" stop="20250221230000 +0000">
+    <programme channel="6602acadb2abe500081cf28a" start="20250221190926 +0000" stop="20250221193635 +0000">
+        <title>I soliti idioti: Il "fiodena</title>
+        <desc>Ruggero viene sorpreso da Gianluca mentre si sta fumando uno spinello in bagno, ma lui si giustifica dicendo che in realtà si tratta di un &amp;quot;fiodena&amp;quot;.</desc>
+        <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6602acadb2abe500081cf28a" start="20250221193635 +0000" stop="20250221200226 +0000">
+        <title>I soliti idioti: La festa della mamma</title>
+        <desc>Gigetto e Nicolò stanno per andare a commettere un omicidio, ma la mamma li blocca: è la festa della mamma e devono rimanere a casa per preparare i biscotti.</desc>
+        <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6602acadb2abe500081cf28a" start="20250221200226 +0000" stop="20250221230000 +0000">
         <title>I soliti idioti</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6602acadb2abe500081cf28a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29074,7 +29264,12 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Non perdere mai più una partita o un gol con FIFA+. Tutti i contenuti dei più grandi tornei su Pluto TV.</desc>
         <icon src="https://images.pluto.tv/series/67b356aaf77b5e1d230dbc81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660bfc4424e1d000085b5f93" start="20250221194500 +0000" stop="20250221230000 +0000">
+    <programme channel="660bfc4424e1d000085b5f93" start="20250221194500 +0000" stop="20250221200500 +0000">
+        <title>Discovering</title>
+        <desc>Find out about one of the best Mexican footballers of all time.</desc>
+        <icon src="https://images.pluto.tv/series/67b3569df77b5e1d230da3d6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660bfc4424e1d000085b5f93" start="20250221200500 +0000" stop="20250221230000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29084,7 +29279,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
         <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6616a51124e1d00008761a7e" start="20250221193000 +0000" stop="20250221230000 +0000">
+    <programme channel="6616a51124e1d00008761a7e" start="20250221193000 +0000" stop="20250221200000 +0000">
+        <title>Triton Poker</title>
+        <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
+        <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6616a51124e1d00008761a7e" start="20250221200000 +0000" stop="20250221203000 +0000">
+        <title>Triton Poker</title>
+        <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
+        <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6616a51124e1d00008761a7e" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>Triton Poker</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6616a51124e1d00008761a7e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29094,7 +29299,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Immergiti nella DFB-Pokal e in altri contenuti calcistici tedeschi su DFB Play TV, live e gratuiti.</desc>
         <icon src="https://images.pluto.tv/series/6763e6b560fbeb0008271310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66461e4394d5580008cfd9c5" start="20250221193000 +0000" stop="20250221230000 +0000">
+    <programme channel="66461e4394d5580008cfd9c5" start="20250221193000 +0000" stop="20250221200000 +0000">
+        <title>DFB Play TV</title>
+        <desc>Immergiti nella DFB-Pokal e in altri contenuti calcistici tedeschi su DFB Play TV, live e gratuiti.</desc>
+        <icon src="https://images.pluto.tv/series/6763e6b560fbeb0008271310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66461e4394d5580008cfd9c5" start="20250221200000 +0000" stop="20250221203000 +0000">
+        <title>DFB Play TV</title>
+        <desc>Immergiti nella DFB-Pokal e in altri contenuti calcistici tedeschi su DFB Play TV, live e gratuiti.</desc>
+        <icon src="https://images.pluto.tv/series/6763e6b560fbeb0008271310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66461e4394d5580008cfd9c5" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>DFB Play TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29104,7 +29319,17 @@ Piero Pelu' Ft. Anggun - Amore Immaginato</desc>
         <desc>Su MODUS Super Series Darts troverai sei giorni alla settimana, 50 settimane all'anno un sacco di contenuti esclusivi di freccette, con notizie, opinionisti e interviste.</desc>
         <icon src="https://images.pluto.tv/series/67501961eeb33700086209ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671655b2daad7f00085d202d" start="20250221193000 +0000" stop="20250221230000 +0000">
+    <programme channel="671655b2daad7f00085d202d" start="20250221193000 +0000" stop="20250221200000 +0000">
+        <title>MODUS Super Series Darts</title>
+        <desc>Su MODUS Super Series Darts troverai sei giorni alla settimana, 50 settimane all'anno un sacco di contenuti esclusivi di freccette, con notizie, opinionisti e interviste.</desc>
+        <icon src="https://images.pluto.tv/series/67501961eeb33700086209ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671655b2daad7f00085d202d" start="20250221200000 +0000" stop="20250221203000 +0000">
+        <title>MODUS Super Series Darts</title>
+        <desc>Su MODUS Super Series Darts troverai sei giorni alla settimana, 50 settimane all'anno un sacco di contenuti esclusivi di freccette, con notizie, opinionisti e interviste.</desc>
+        <icon src="https://images.pluto.tv/series/67501961eeb33700086209ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671655b2daad7f00085d202d" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671655b2daad7f00085d202d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="20-02-2025 16:02:20">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="20-02-2025 16:11:35">
 <tv>
     <channel id="5e793a7cfbdf780007f7eb75">
         <display-name>Descubriendo Pluto TV</display-name>
@@ -36085,7 +36085,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Un ex-agente de la CIA vuelve a la acción para proteger a un testigo muy valioso, pero pronto se da cuenta de que los tiempos han cambiado y ya no puede confiar en nadie, ni siquiera en aquellos a los que consideraba sus amigos.</desc>
         <icon src="https://images.pluto.tv/series/5e6a42a4e2fa10001becd0b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcb62e63d4d8f0009f36881" start="20250221193100 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcb62e63d4d8f0009f36881" start="20250221193100 +0000" stop="20250221214800 +0000">
+        <title>Marcado por la muerte</title>
+        <desc>El pandillero Victor se infiltra en el imperio criminal dirigido por Alphonse, pero su objetivo no es acumular poder. En realidad, la misión de Victor es hacer que Alphonse pague por destruir su alguna vez feliz vida.</desc>
+        <icon src="https://images.pluto.tv/series/604b91f2b2b870001a05f149/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcb62e63d4d8f0009f36881" start="20250221214800 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Acción</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36095,7 +36100,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>A fines de la década de 1980, un gángster de bajo nivel llamado Jackie DiNorscio se defiende en la corte en lo que se convirtió en el juicio penal más largo en la historia judicial estadounidense.</desc>
         <icon src="https://images.pluto.tv/series/5e542e6fd64317e788421f56/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcdde78f080d900098550e4" start="20250221194900 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcdde78f080d900098550e4" start="20250221194900 +0000" stop="20250221213500 +0000">
+        <title>Un Loco Funeral</title>
+        <desc>Comedia negra que narra la historia de tres generaciones de una misma familia que se reúnen con motivo del funeral del patriarca, lo que sirve de ocasión para que salgan a flote una serie de secretos familiares y relaciones encubiertas.</desc>
+        <icon src="https://images.pluto.tv/series/60b53c2de36d58001a68e66a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcdde78f080d900098550e4" start="20250221213500 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Comedia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36105,7 +36115,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Una mezcla de terror, ciencia ficción, mitos, misterio y suspenso, contada en cuatro relatos interconectados. Fantasmas, espíritus, criaturas, demonios y mucho más del mundo paranormal chocan con la curiosidad racional.</desc>
         <icon src="https://images.pluto.tv/series/6408ab87e9c66300131f8caa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcddf1ed95e740009fef7ab" start="20250221192600 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcddf1ed95e740009fef7ab" start="20250221192600 +0000" stop="20250221210500 +0000">
+        <title>Todavía estamos aquí</title>
+        <desc>En esta escalofriante moderna historia de fantasmas, una pareja es perseguida por espíritus vengativos tras mudarse a un pueblo rural que oculta un horroroso secreto.</desc>
+        <icon src="https://images.pluto.tv/series/5f36c5b6bbff270013bb2313/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcddf1ed95e740009fef7ab" start="20250221210500 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Terror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36115,7 +36130,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Alex y Sergi, una sólida pareja de Barcelona, acaricia la idea de tener un hijo, pero, inesperadamente, Alex consigue una beca de un año en Los Ángeles, lo que supondría un año de relación a 10.000 Km de distancia.</desc>
         <icon src="https://images.pluto.tv/series/63d16e21163e910013fae72f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcddfcb229eff00091b6bdf" start="20250221191000 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcddfcb229eff00091b6bdf" start="20250221191000 +0000" stop="20250221213200 +0000">
+        <title>¡Queridos Camaradas!</title>
+        <desc>Cuando el gobierno comunista elevó los precios de los alimentos en 1962, los trabajadores rebeldes de la pequeña ciudad industrial de Novocherkassk se declararon en huelga. La masacre resultante se ve a través de los ojos de un activista del partido.</desc>
+        <icon src="https://images.pluto.tv/series/66e33b9ea0ed470013e0ad0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcddfcb229eff00091b6bdf" start="20250221213200 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36125,7 +36145,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>The Ghost está comprando y Kane se propone averiguar qué lo acerca más a The Ghost.</desc>
         <icon src="https://images.pluto.tv/series/6081cf32732128001a1d0721/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde1317578340009b751d0" start="20250221194600 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcde1317578340009b751d0" start="20250221194600 +0000" stop="20250221203800 +0000">
+        <title>Justicia verdadera</title>
+        <desc>Kane cree que The Ghost está buscando comprar una maleta con bombas nucleares, que ha sido introducida de contrabando en el país y se propone rastrearla junto con su equipo.</desc>
+        <icon src="https://images.pluto.tv/series/6081cf32732128001a1d0721/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde1317578340009b751d0" start="20250221203800 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36135,7 +36160,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Un grupo de ladrones profesionales de alto nivel empieza a sentir a la policía de Los Ángeles en los talones cuando, sin saberlo, deja una pista en su último atraco.</desc>
         <icon src="https://images.pluto.tv/series/67584690882f6d0013f5cc05/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde437229eff00091b6c30" start="20250221190100 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcde437229eff00091b6c30" start="20250221190100 +0000" stop="20250221211000 +0000">
+        <title>Serena</title>
+        <desc>En la Carolina del Norte de los Años 20, el futuro del imperio maderero de George Pemberton se complica cuando se casa con Serena.</desc>
+        <icon src="https://images.pluto.tv/series/5e0a2bf5be8fa6764e87708d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde437229eff00091b6c30" start="20250221211000 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Estelar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36145,7 +36175,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>La Pulga, el archienemigo de Antboy, consigue su libertad. Nada más salir del centro psiquiátrico, Alicia Dufort, la presidenta de Exofarm, lo recluta para recrear de nuevo el suero Hércules.</desc>
         <icon src="https://images.pluto.tv/series/5fda40d3aabcdd001aaf4ac9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd6ddb30a1d8a000908ed4c" start="20250221193545 +0000" stop="20250221230000 +0000">
+    <programme channel="5dd6ddb30a1d8a000908ed4c" start="20250221193545 +0000" stop="20250221213445 +0000">
+        <title>El Pequeño Gangster</title>
+        <desc>Rik Boskamp es hijo de un contable y no soporta el acoso escolar. Viendo una película sobre la Mafia, tiene una idea que le parece brillante.Rik convence a sus padres para que se trasladen a otra ciudad con su familia, para empezar de nuevo en lugar nuevo</desc>
+        <icon src="https://images.pluto.tv/series/6266e4ecbaa39e0013e4a927/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6ddb30a1d8a000908ed4c" start="20250221213445 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Familia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36195,7 +36230,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Descubre la gran variedad de Canales, Películas y Series que hay en PlutoTV, ¡Es Gratis!</desc>
         <icon src="https://images.pluto.tv/series/661829b2307fa30008f67919/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e793a7cfbdf780007f7eb75" start="20250221190020 +0000" stop="20250221230000 +0000">
+    <programme channel="5e793a7cfbdf780007f7eb75" start="20250221190020 +0000" stop="20250221193520 +0000">
+        <title>Descubriendo Pluto TV</title>
+        <desc>Descubre la gran variedad de Canales, Películas y Series que hay en PlutoTV, ¡Es Gratis!</desc>
+        <icon src="https://images.pluto.tv/series/661829b2307fa30008f67919/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e793a7cfbdf780007f7eb75" start="20250221193520 +0000" stop="20250221201020 +0000">
+        <title>Descubriendo Pluto TV</title>
+        <desc>Descubre la gran variedad de Canales, Películas y Series que hay en PlutoTV, ¡Es Gratis!</desc>
+        <icon src="https://images.pluto.tv/series/661829b2307fa30008f67919/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e793a7cfbdf780007f7eb75" start="20250221201020 +0000" stop="20250221230000 +0000">
         <title>Descubriendo Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e793a7cfbdf780007f7eb75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36205,7 +36250,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Yan Jian, un joven ingeniero chino se ofrece para ir al norte de África y ayudar a la compañía para la que trabaja a ganar una competencia. El espía francés Michael también intenta ganarla para controlar los grandes recursos minerales de África.</desc>
         <icon src="https://images.pluto.tv/series/5f7b8796e4b56900138b7f76/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e972a21ad709d00074195ba" start="20250221191200 +0000" stop="20250221230000 +0000">
+    <programme channel="5e972a21ad709d00074195ba" start="20250221191200 +0000" stop="20250221210700 +0000">
+        <title>Máxima Condena</title>
+        <desc>Se requieren dos ex agentes de operaciones encubiertos para transferir a dos mujeres convictas a una prisión. En su camino, asaltantes desconocidos los atacan.</desc>
+        <icon src="https://images.pluto.tv/series/62bf0d583071460013d6c923/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e972a21ad709d00074195ba" start="20250221210700 +0000" stop="20250221230000 +0000">
         <title>Estrellas de Acción</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36225,7 +36275,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Jesús Arriaga, un astuto e inteligente ladrón enamorado de la aristócrata Matilde Frizac, se ve envuelto en una serie de infortunios que lo obligan a mantenerse separado de su hija y de Matilde.</desc>
         <icon src="https://images.pluto.tv/series/649b4d8558bf820013d11673/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609059dc63be6e0007b4eca6" start="20250221191400 +0000" stop="20250221230000 +0000">
+    <programme channel="609059dc63be6e0007b4eca6" start="20250221191400 +0000" stop="20250221204500 +0000">
+        <title>Yo soy Chucho el Roto</title>
+        <desc>El carpintero Jesús Arriaga se enamora de Erica Matilde, pero los tíos de ella se oponen a la relación y lo arrestan por robo. Se fuga de la cárcel y se convierte en un bandido generoso.</desc>
+        <icon src="https://images.pluto.tv/series/649b5fad12e6ce001367ffb1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609059dc63be6e0007b4eca6" start="20250221204500 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Cine Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36235,7 +36290,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Maggie estrena una nueva exposición de arte en un lugar poco convencional. Clare crea una aplicación Inkubator para Kelsey mientras ésta sale con su ex. Liza convence a Charles para venir a Inkubator, y un gran talento lee en la noche de su visita.</desc>
         <icon src="https://images.pluto.tv/series/60b79f09a409ac001a076f66/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619d56d9fa3070000709e3f7" start="20250221190500 +0000" stop="20250221230000 +0000">
+    <programme channel="619d56d9fa3070000709e3f7" start="20250221190500 +0000" stop="20250221193600 +0000">
+        <title>Younger</title>
+        <desc>Liza y Charles parecen acercarse, pero una información y un viaje exótico hacen que Liza sienta que todo está perdido. Kelsey se muda al apartamento modelo de Rob, y Lauren le organiza una fiesta de inauguración con final médico.</desc>
+        <icon src="https://images.pluto.tv/series/60b79f09a409ac001a076f66/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d56d9fa3070000709e3f7" start="20250221193600 +0000" stop="20250221203000 +0000">
+        <title>Younger</title>
+        <desc>Charles y Liza se reencuentran y deciden no mentir más, pero las ganas de Kelsey por Inkubator obligan a Liza a ocultar la verdad. Lauren planea un reencuentro aromántico con Max. Saltan chispas entre Maggie y un enemigo convertido en amigo.</desc>
+        <icon src="https://images.pluto.tv/series/60b79f09a409ac001a076f66/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d56d9fa3070000709e3f7" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>Younger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36275,7 +36340,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>La búsqueda Antonio Riaz por parte de Horacio continúa. Los federales se hacen cargo del laboratorio e investigan a cada miembro del equipo cuando faltan 12.000 dólares de una redada de drogas.</desc>
         <icon src="https://images.pluto.tv/series/63bc1f45a6bb3b001475e802/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb9255c111bc0008fe6ec4" start="20250221192600 +0000" stop="20250221230000 +0000">
+    <programme channel="63eb9255c111bc0008fe6ec4" start="20250221192600 +0000" stop="20250221201800 +0000">
+        <title>CSI: Miami</title>
+        <desc>Megan Donner regresa a la unidad de CSI a tiempo para trabajar en un accidente de avión en los Everglades. Descubren una víctima a ocho kilómetros del accidente.</desc>
+        <icon src="https://images.pluto.tv/series/63bc1f45a6bb3b001475e802/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb9255c111bc0008fe6ec4" start="20250221201800 +0000" stop="20250221230000 +0000">
         <title>CSI: Miami</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36285,7 +36355,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Encuentran el cadáver de un infante de marina después de una fiesta en un club nocturno ilegal. El equipo investiga una serie de posibles pistas, incluido un chantaje y una muerte accidental.</desc>
         <icon src="https://images.pluto.tv/series/64413b886113a5001afb0856/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb947c4e83e70008ab877b" start="20250221192500 +0000" stop="20250221230000 +0000">
+    <programme channel="63eb947c4e83e70008ab877b" start="20250221192500 +0000" stop="20250221201700 +0000">
+        <title>NCIS</title>
+        <desc>El equipo busca a un ex-SEAL que escapó de prisión en busca de venganza. Está decidido a encontrar al verdadero asesino de su esposa.</desc>
+        <icon src="https://images.pluto.tv/series/64413b886113a5001afb0856/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb947c4e83e70008ab877b" start="20250221201700 +0000" stop="20250221230000 +0000">
         <title>NCIS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36295,7 +36370,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Un grupo de combate de mercenarios rusos formado por cinco personas: Steve, Bes, Shaman, Ronin y Lavender aterrizan en secreto en una isla privada en el Golfo de Chile.</desc>
         <icon src="https://images.pluto.tv/series/649ee2b0e548810013de395a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6479ff1c17f5e10008ad2797" start="20250221191100 +0000" stop="20250221230000 +0000">
+    <programme channel="6479ff1c17f5e10008ad2797" start="20250221191100 +0000" stop="20250221200300 +0000">
+        <title>La Manada</title>
+        <desc>Hay información de que cierta corporación dispuso una disposición de desechos radiactivos allí, en lugar de extraer grava, ya que la isla está protegida por personas armadas.</desc>
+        <icon src="https://images.pluto.tv/series/649ee2b0e548810013de395a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6479ff1c17f5e10008ad2797" start="20250221200300 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series de Acción</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36305,7 +36385,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Cullen desafía al Sueco en su plan de escapar de Fort Smith. Llega un nuevo adversario y hace sentir su presencia en Cheyenne.</desc>
         <icon src="https://images.pluto.tv/series/64b6d9ee2273310013523281/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ff26233efb5100082eeb2e" start="20250221190100 +0000" stop="20250221230000 +0000">
+    <programme channel="64ff26233efb5100082eeb2e" start="20250221190100 +0000" stop="20250221195200 +0000">
+        <title>Hell on Wheels</title>
+        <desc>Cullen vuelve a trabajar en el ferrocarril y tiene diferencias con su nuevo jefe. Durant y Campbell se disputan una propiedad inmueble muy valiosa.</desc>
+        <icon src="https://images.pluto.tv/series/64b6d9ee2273310013523281/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ff26233efb5100082eeb2e" start="20250221195200 +0000" stop="20250221204300 +0000">
+        <title>Hell on Wheels</title>
+        <desc>Cullen tiene problemas en casa al tomar asuntos del ferrocarril en sus propias manos. Campbell toma iniciativa contra Durant y Mickey.</desc>
+        <icon src="https://images.pluto.tv/series/64b6d9ee2273310013523281/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ff26233efb5100082eeb2e" start="20250221204300 +0000" stop="20250221230000 +0000">
         <title>Infierno Sobre Ruedas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36315,7 +36405,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>En el lugar de un complicado accidente de tráfico, Chris y Gail se encuentran con un coche cuya matrícula coincide con la alerta ámbar de una niña de nueve años.</desc>
         <icon src="https://images.pluto.tv/series/64b6d050aab4dc00137537ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ff270f30ab3300084e259c" start="20250221194800 +0000" stop="20250221230000 +0000">
+    <programme channel="64ff270f30ab3300084e259c" start="20250221194800 +0000" stop="20250221203700 +0000">
+        <title>Rookie Blue</title>
+        <desc>Las tensiones entre Andy y Swarek están en su punto más alto, pero deben dejar de lado sus sentimientos cuando un traslado de prisioneros fallido les pone en el juego del gato y el ratón para atrapar al fugitivo.</desc>
+        <icon src="https://images.pluto.tv/series/64b6d050aab4dc00137537ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64ff270f30ab3300084e259c" start="20250221203700 +0000" stop="20250221230000 +0000">
         <title>Rookie Blue: Policías Novatos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36325,7 +36420,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Jeremy anima a Mark a empezar a salir en citas de nuevo, por lo que le arregla una con Heather. Él inmediatamente decide que ella es "la indicada".</desc>
         <icon src="https://images.pluto.tv/series/608ab07a34651500131a61f0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f626d57fe4a00085c7c3e" start="20250221190200 +0000" stop="20250221230000 +0000">
+    <programme channel="655f626d57fe4a00085c7c3e" start="20250221190200 +0000" stop="20250221193200 +0000">
+        <title>Peep Show</title>
+        <desc>Mark y Sophie regresan al trabajo después de su desastroso día de bodas, pero Mark está decidido a tergiversas las cosas para demostrar quién debería tener toda la culpa.</desc>
+        <icon src="https://images.pluto.tv/series/608ab07a34651500131a61f0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f626d57fe4a00085c7c3e" start="20250221193200 +0000" stop="20250221200300 +0000">
+        <title>Peep Show</title>
+        <desc>Mark está harto de Jeremy y decide desalojarlo, instalando a una mujer australiana llamada Saz en su lugar, con la esperanza de que se convierta en su nueva novia.</desc>
+        <icon src="https://images.pluto.tv/series/608ab07a34651500131a61f0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f626d57fe4a00085c7c3e" start="20250221200300 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series de Comedia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36335,7 +36440,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>El entrenador de equitación, Laszlo Urban, es encontrado muerto a golpes en un remolque para caballos.</desc>
         <icon src="https://images.pluto.tv/series/6407409ee44795001320871e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f62ff954b020008c91ec6" start="20250221195000 +0000" stop="20250221230000 +0000">
+    <programme channel="655f62ff954b020008c91ec6" start="20250221195000 +0000" stop="20250221204300 +0000">
+        <title>Intuición Criminal</title>
+        <desc>Angélica recibe un paquete anónimo en el correo.</desc>
+        <icon src="https://images.pluto.tv/series/6407409ee44795001320871e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f62ff954b020008c91ec6" start="20250221204300 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series de Crimen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36345,7 +36455,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Rahim le dice a Jodha que vio a Maham Anga agregando algo al azafrán.</desc>
         <icon src="https://images.pluto.tv/series/639b20064da5ab001302c89a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="655f636d954b020008c93299" start="20250221191100 +0000" stop="20250221230000 +0000">
+    <programme channel="655f636d954b020008c93299" start="20250221191100 +0000" stop="20250221200600 +0000">
+        <title>Jodha Akbar</title>
+        <desc>Rahim le dice a Jodha que vio a Maham Anga agregando algo al azafrán.</desc>
+        <icon src="https://images.pluto.tv/series/639b20064da5ab001302c89a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655f636d954b020008c93299" start="20250221200600 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series de Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655f636d954b020008c93299/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36355,7 +36470,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>El Rey Zad, atormentado por los sueños de su propia muerte a manos de un niño desconocido, busca la ayuda de la Hechicera.</desc>
         <icon src="https://images.pluto.tv/series/5f3be4ed0b2a6c001ab9235f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65662c1357fe4a00086b3eb1" start="20250221191300 +0000" stop="20250221230000 +0000">
+    <programme channel="65662c1357fe4a00086b3eb1" start="20250221191300 +0000" stop="20250221200300 +0000">
+        <title>Into the Badlands</title>
+        <desc>La guerra civil estalla en las Badlands.</desc>
+        <icon src="https://images.pluto.tv/series/65f47080ea323e0013229672/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65662c1357fe4a00086b3eb1" start="20250221200300 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series de Aventura</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65662c1357fe4a00086b3eb1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36365,7 +36485,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Una situación de rehenes se produce cuando la tripulación se enfrenta a Tyr.</desc>
         <icon src="https://images.pluto.tv/series/6113ff42975c210013c15376/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65662f8a2c46f300088a84cc" start="20250221190500 +0000" stop="20250221230000 +0000">
+    <programme channel="65662f8a2c46f300088a84cc" start="20250221190500 +0000" stop="20250221195600 +0000">
+        <title>Andrómeda</title>
+        <desc>Un giro equivocado en la corriente de deslizamiento lleva a Andrómeda a un motín en la prisión.</desc>
+        <icon src="https://images.pluto.tv/series/6113ff42975c210013c15376/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65662f8a2c46f300088a84cc" start="20250221195600 +0000" stop="20250221204700 +0000">
+        <title>Andrómeda</title>
+        <desc>La tripulación de Andrómeda se levanta para averiguar quién mató a un grupo de científicos.</desc>
+        <icon src="https://images.pluto.tv/series/6113ff42975c210013c15376/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65662f8a2c46f300088a84cc" start="20250221204700 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Series de Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -36375,7 +36505,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Warren es atendido por un atractivo colono. Mientras tanto, los otros finalmente llegan a Newmérica.</desc>
         <icon src="https://images.pluto.tv/series/66a269ea8dfe2a00133cff60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b3af1c3a4ad200081c7d03" start="20250221195100 +0000" stop="20250221230000 +0000">
+    <programme channel="66b3af1c3a4ad200081c7d03" start="20250221195100 +0000" stop="20250221204200 +0000">
+        <title>Z Nation</title>
+        <desc>En el puesto de avanzada Altura, 10K busca a Red; Murphy encuentra a Sun Mei y Doc se topa con el Ciudadano Z.</desc>
+        <icon src="https://images.pluto.tv/series/66a269ea8dfe2a00133cff60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b3af1c3a4ad200081c7d03" start="20250221204200 +0000" stop="20250221230000 +0000">
         <title>Z Nation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38442,7 +38577,22 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Bob El Constructor y su equipo de máquinas están listos para abordar cualquier proyecto, desde pequeños trabajos de reparación hasta construcciones a gran escala en ubicaciones emocionantes y dinámicas..</desc>
         <icon src="https://images.pluto.tv/series/6012180d00da4e00138b9301/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dcde2ac4bc6c500094ab45b" start="20250221190608 +0000" stop="20250221230000 +0000">
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20250221190608 +0000" stop="20250221193008 +0000">
+        <title>Bob, el constructor</title>
+        <desc>Bob El Constructor y su equipo de máquinas están listos para abordar cualquier proyecto, desde pequeños trabajos de reparación hasta construcciones a gran escala en ubicaciones emocionantes y dinámicas..</desc>
+        <icon src="https://images.pluto.tv/series/6012180d00da4e00138b9301/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20250221193008 +0000" stop="20250221195408 +0000">
+        <title>Bob, el constructor</title>
+        <desc>Bob El Constructor y su equipo de máquinas están listos para abordar cualquier proyecto, desde pequeños trabajos de reparación hasta construcciones a gran escala en ubicaciones emocionantes y dinámicas..</desc>
+        <icon src="https://images.pluto.tv/series/6012180d00da4e00138b9301/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20250221195408 +0000" stop="20250221201808 +0000">
+        <title>Bob, el constructor</title>
+        <desc>Bob El Constructor y su equipo de máquinas están listos para abordar cualquier proyecto, desde pequeños trabajos de reparación hasta construcciones a gran escala en ubicaciones emocionantes y dinámicas.</desc>
+        <icon src="https://images.pluto.tv/series/6012180d00da4e00138b9301/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dcde2ac4bc6c500094ab45b" start="20250221201808 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38452,7 +38602,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Tarash tiene una idea brillante, dejar morir por inanición a Arak impidiendo que los insectos sean capturados en su red. El plan funciona mejor de lo que estaba pensado, pues en lugar de abandonar el pueblo, la araña decide bajar a la villa.</desc>
         <icon src="https://images.pluto.tv/series/5fdcff2259c69f001a2479f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dd6dae8ce788b0009eaf77b" start="20250221192235 +0000" stop="20250221230000 +0000">
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20250221192235 +0000" stop="20250221195135 +0000">
+        <title>Arthur and the mynimoys</title>
+        <desc>Siguiendo las órdenes de Maltazard, Darkos y Tarash secuestran a Diente Roto para que prepare una poción que les permite robar la espada de Arthur. Arthur, Selenia y Betameche inician una misión de rescate para liberarla</desc>
+        <icon src="https://images.pluto.tv/series/5fdcff2259c69f001a2479f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20250221195135 +0000" stop="20250221202035 +0000">
+        <title>Arthur and the mynimoys</title>
+        <desc>Betameche encuentra un pergamino antiguo que le confiere a su propietario el don de la invencibilidad. Liberado de sus miedos y con un poco de suerte Betameche cobra tanto valor que se convierte en Betameche el Bárbaro</desc>
+        <icon src="https://images.pluto.tv/series/5fdcff2259c69f001a2479f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dd6dae8ce788b0009eaf77b" start="20250221202035 +0000" stop="20250221230000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38462,7 +38622,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Fuertes lluvias llevan a Ickis, Krumm y Oblina por la alcantarilla, hacia un pueblo rural en donde son confundidos con seres de otro planeta. / Ickis y Krumm se roban el muy valioso pelo dorado de la nariz de Snorch.</desc>
         <icon src="https://images.pluto.tv/series/5e305b3b00b8fd45e1433e0e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddd7c348520b40009c347e2" start="20250221192530 +0000" stop="20250221230000 +0000">
+    <programme channel="5ddd7c348520b40009c347e2" start="20250221192530 +0000" stop="20250221195430 +0000">
+        <title>Aaahh!!! Monstruos</title>
+        <desc>Ickis se enfrenta al monstruo volador, Zimbo, después de encontrar un helicóptero a control remoto en el vertedero. / El trío descubre que la única forma de mantener quieto al sobrino del Gromble es contándole un cuento.</desc>
+        <icon src="https://images.pluto.tv/series/5e305b3b00b8fd45e1433e0e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7c348520b40009c347e2" start="20250221195430 +0000" stop="20250221202330 +0000">
+        <title>Aaahh!!! Monstruos</title>
+        <desc>Simón, el Caza Monstruos, crea una nueva máquina con la cual ningún monstruo podrá escapar de sus garras. / Krumm siente que Ickis y Oblina no le prestan suficiente atención, y decide mudarse a una nueva habitación con otros dos monstruos.</desc>
+        <icon src="https://images.pluto.tv/series/5e305b3b00b8fd45e1433e0e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7c348520b40009c347e2" start="20250221202330 +0000" stop="20250221230000 +0000">
         <title>Nickelodeon Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38472,7 +38642,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Algunos pingüinos llegan a Bahía Aventura y comienzan a causar problemas. Los Paw Patrol deben descubrir la manera de llevarlos a aguas más heladas. / Cuando un pequeño delfín queda atrapado en un río peligroso, deben salvarlo.</desc>
         <icon src="https://images.pluto.tv/series/64e61ef08a0f710013e510bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20250221191700 +0000" stop="20250221230000 +0000">
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20250221191700 +0000" stop="20250221194500 +0000">
+        <title>PAW Patrol</title>
+        <desc>El Capitán Turbot encalla su barco en las rocas. Ryder y los Cachorros entran en acción para remolcarlo hasta el muelle. / Una tormenta de nieve amenaza la cosecha de la Granjera Yumi y el Festival de Otoño.</desc>
+        <icon src="https://images.pluto.tv/series/64e61ef08a0f710013e510bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20250221194500 +0000" stop="20250221201300 +0000">
+        <title>PAW Patrol</title>
+        <desc>Los Paw Patrol tienen que ayudar a la Alcaldesa Goodway a cuidar a sus sobrinos. / La Alcaldesa Goodway recibe cerditos, en vez de fuegos artificiales, para celebrar el Día de Bahía Aventura.</desc>
+        <icon src="https://images.pluto.tv/series/64e61ef08a0f710013e510bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddd7cb2cbb9010009b4fe32" start="20250221201300 +0000" stop="20250221230000 +0000">
         <title>Nick Jr. Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38482,7 +38662,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Angélica convence a los bebés de que los papás están buscando la fuente de la juventud para volver a ser niños. / Para el cumpleaños de Kimi, sus padres organizan una fiesta especial, pero Hugo lleva a los bebés a un club gótico.</desc>
         <icon src="https://images.pluto.tv/series/620bb154a5b2950013be5a14/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ea7215005d66d0007e8128a" start="20250221190300 +0000" stop="20250221230000 +0000">
+    <programme channel="5ea7215005d66d0007e8128a" start="20250221190300 +0000" stop="20250221193200 +0000">
+        <title>Rugrats crecidos</title>
+        <desc>Susie conoce a una agente de talentos que le hace creer que ella puede convertirse en una estrella internacional del pop. Pero resulta que la mujer era una farsante, que la engañó solo para sacarle dinero.</desc>
+        <icon src="https://images.pluto.tv/series/5e31a4c2423d816d8854350b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20250221193200 +0000" stop="20250221200100 +0000">
+        <title>Rugrats crecidos</title>
+        <desc>Cansada de que todo el mundo vea a los gemelos como una sola persona, Lili comienza a alejarse de Fil, aunque él quiera mantenerse cerca de ella. Mientras tanto, Carlitos se pronuncia en contra de la "Prueba Presidencial de Salud".</desc>
+        <icon src="https://images.pluto.tv/series/5e31a4c2423d816d8854350b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ea7215005d66d0007e8128a" start="20250221200100 +0000" stop="20250221230000 +0000">
         <title>Rugrats</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38492,7 +38682,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Cuenten autos con Widget; ayuden a los amigos ardilla Sammy y Eva a encontrar la bellota en el cuarto de juegos: y aprendan todo sobre la palabra “Avión”.</desc>
         <icon src="https://images.pluto.tv/series/5f282699aed833001aab3c0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ebac49ce4dc8b00078b23bc" start="20250221192300 +0000" stop="20250221230000 +0000">
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20250221192300 +0000" stop="20250221200200 +0000">
+        <title>Clase de bebé: Vocabulario y números</title>
+        <desc>Clase de Bebé introduce a bebés y niños pequeños a nuevas palabras, números, formas y otras bases preescolares. ¡Hoy aprenderán a contar y explorar números!</desc>
+        <icon src="https://images.pluto.tv/series/5f282699aed833001aab3c0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ebac49ce4dc8b00078b23bc" start="20250221200200 +0000" stop="20250221230000 +0000">
         <title>Babyfirst</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38502,7 +38697,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Cuando algunos de los niños en el parque invitan a Barney a unirse a ellos para una carrera, BJ y Baby Bop deciden que necesitará su ayuda. Le muestran varias formas de prepararse para la gran carrera calentando y estirando.</desc>
         <icon src="https://images.pluto.tv/series/5f1899b14b8f2200131c1c78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f29ada4bdaebd000708d49d" start="20250221191400 +0000" stop="20250221230000 +0000">
+    <programme channel="5f29ada4bdaebd000708d49d" start="20250221191400 +0000" stop="20250221194600 +0000">
+        <title>Barney</title>
+        <desc>BJ y Riff encuentran un mapa pirata, pero para encontrar el tesoro, tienen que poder contar. Como Baby Bop aún no ha aprendido a contar, Barney se ofrece a ayudarla a enseñarla para que pueda participar.</desc>
+        <icon src="https://images.pluto.tv/series/5f1899b14b8f2200131c1c78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f29ada4bdaebd000708d49d" start="20250221194600 +0000" stop="20250221201800 +0000">
+        <title>Barney</title>
+        <desc>BJ se entera de que tener una mascota es una responsabilidad mucho mayor de lo que esperaba cuando se ofrece a cuidar al perro de un amigo. Cuando accidentalmente pierde al perro, todos tienen que trabajar juntos para encontrarlo.</desc>
+        <icon src="https://images.pluto.tv/series/5f1899b14b8f2200131c1c78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f29ada4bdaebd000708d49d" start="20250221201800 +0000" stop="20250221230000 +0000">
         <title>Barney</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38512,7 +38717,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
         <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f4d3d06fb60d8000781fce8" start="20250221192700 +0000" stop="20250221230000 +0000">
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20250221192700 +0000" stop="20250221195600 +0000">
+        <title>El Reino Infantil</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20250221195600 +0000" stop="20250221202500 +0000">
+        <title>El Reino Infantil</title>
+        <desc>Tus personajes preferidos de El Reino Infantil te esperan, en este nuevo episodio, para cantar y bailar con las canciones y los episodios más divertidos!</desc>
+        <icon src="https://images.pluto.tv/series/642ae88872e1ff001a24d4bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d3d06fb60d8000781fce8" start="20250221202500 +0000" stop="20250221230000 +0000">
         <title>El Reino Infantil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38532,7 +38747,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Karaoke Por Stingray</desc>
         <icon src="https://images.pluto.tv/series/5f9ac02d6cc2dc0007278cd3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f85cf621d6d2200079f1de0" start="20250221200000 +0000" stop="20250221230000 +0000">
+    <programme channel="5f85cf621d6d2200079f1de0" start="20250221200000 +0000" stop="20250221210000 +0000">
+        <title>Karaoke Por Stingray</title>
+        <desc>Karaoke Por Stingray</desc>
+        <icon src="https://images.pluto.tv/series/5f9ac02d6cc2dc0007278cd3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f85cf621d6d2200079f1de0" start="20250221210000 +0000" stop="20250221230000 +0000">
         <title>Karaoke por Stingray</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38542,7 +38762,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Todos están inventando juegos nuevos. Debemos seguir las pistas para descubrir qué cambió Joe de su apariencia, descifrar dónde querrá jugar Blue su nuevo juego y descubrir la canción del nuevo juego de Periwinkle.</desc>
         <icon src="https://images.pluto.tv/series/5e3c1852360fab25879e7c18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f9996533c9de3000759ccb5" start="20250221193000 +0000" stop="20250221230000 +0000">
+    <programme channel="5f9996533c9de3000759ccb5" start="20250221193000 +0000" stop="20250221200000 +0000">
+        <title>Las Pistas de Blue</title>
+        <desc>¿Quién tiene ritmo? ¡Todos tenemos! Todos nuestros amigos están utilizando instrumentos para crear música. Blue creó su propia banda y junto con sus amigos y Joe, nosotros también tocaremos instrumentos en esa banda.</desc>
+        <icon src="https://images.pluto.tv/series/5e3c1852360fab25879e7c18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f9996533c9de3000759ccb5" start="20250221200000 +0000" stop="20250221203000 +0000">
+        <title>Las Pistas de Blue</title>
+        <desc>Hoy vamos a ayudar a Joe a comprar todo lo que tiene en su lista de compras y nos tendremos que asegurar de que compre las tallas correctas. Además, jugamos a las Pistas de Blue para descubrir qué quiere comprar la perrita azul.</desc>
+        <icon src="https://images.pluto.tv/series/5e3c1852360fab25879e7c18/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f9996533c9de3000759ccb5" start="20250221203000 +0000" stop="20250221230000 +0000">
         <title>Las Pistas de Blue</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38552,7 +38782,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
         <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6047fabfce6e8e00070bcc9f" start="20250221200000 +0000" stop="20250221230000 +0000">
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20250221200000 +0000" stop="20250221210000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>¡Checa esto! MTV BIGGEST POP es tu destino para la mejor música, las más brillantes estrellas y los hits más bailables de la actualidad. Desde Drake y Miley, pasando por Beyoncé y Gaga.</desc>
+        <icon src="https://images.pluto.tv/series/609d8b003029660007d932ba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6047fabfce6e8e00070bcc9f" start="20250221210000 +0000" stop="20250221230000 +0000">
         <title>MTV Biggest Pop</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38562,7 +38797,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>¡Lo escuchaste primero aquí!  MTV SPANKIN’ NEW es el lugar para descubrir nuevos artistas antes de que se vuelvan estrellas. Las playlists con lo mejor, y lo más novedosos del Pop, Hip-Hop y de las bandas alternativas.</desc>
         <icon src="https://images.pluto.tv/series/609d8cbdfd0bc30007db61ec/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6047fd723b5bd00007de7092" start="20250221200000 +0000" stop="20250221230000 +0000">
+    <programme channel="6047fd723b5bd00007de7092" start="20250221200000 +0000" stop="20250221210000 +0000">
+        <title>MTV Spankin' New</title>
+        <desc>¡Lo escuchaste primero aquí!  MTV SPANKIN’ NEW es el lugar para descubrir nuevos artistas antes de que se vuelvan estrellas. Las playlists con lo mejor, y lo más novedosos del Pop, Hip-Hop y de las bandas alternativas.</desc>
+        <icon src="https://images.pluto.tv/series/609d8cbdfd0bc30007db61ec/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6047fd723b5bd00007de7092" start="20250221210000 +0000" stop="20250221230000 +0000">
         <title>MTV Spankin' New</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38572,7 +38812,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>¡Disfrutemos todos los días con la compilación de las canciones de Tiburón Bebé!</desc>
         <icon src="https://images.pluto.tv/series/641c7e914f1ca3001a87acc3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619d5e6a093e7c0007489211" start="20250221192000 +0000" stop="20250221230000 +0000">
+    <programme channel="619d5e6a093e7c0007489211" start="20250221192000 +0000" stop="20250221200300 +0000">
+        <title>Feliz Mes de Tiburón Bebé</title>
+        <desc>¡Disfrutemos todos los días con la compilación de las canciones de Tiburón Bebé!</desc>
+        <icon src="https://images.pluto.tv/series/641c7e914f1ca3001a87acc3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619d5e6a093e7c0007489211" start="20250221200300 +0000" stop="20250221230000 +0000">
         <title>Baby Shark TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38582,7 +38827,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Reggie aprende que incluso los jugadores más talentosos no pueden jugar para ellos mismos si quieren pertenecer a un equipo. / Twister debe pedirle ayuda a Lars para recuperar el trofeo del castillo de arena para Costa del Océano.</desc>
         <icon src="https://images.pluto.tv/series/61a6276d178ebd00137ad118/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6202ab549654c800076ee13f" start="20250221192900 +0000" stop="20250221230000 +0000">
+    <programme channel="6202ab549654c800076ee13f" start="20250221192900 +0000" stop="20250221195800 +0000">
+        <title>Rocket Power</title>
+        <desc>Lars engaña a Twister, Sam y los Rocket para que se pierdan en una bicisenda a Montaña Mondo. / Un día lluvioso se pone aún más oscuro cuando los chicos Rocket creen que Tito se deshizo de su padre.</desc>
+        <icon src="https://images.pluto.tv/series/61a6276d178ebd00137ad118/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6202ab549654c800076ee13f" start="20250221195800 +0000" stop="20250221202700 +0000">
+        <title>Rocket Power</title>
+        <desc>Otto se pone celoso cuando Keoni, el sobrino de Tito, viene de visita, lo supera en todo y se vuelve un éxito rotundo en el grupo. / Otto debe dejar la gran competencia de skateboard cuando Ray necesita ayuda en la cabaña.</desc>
+        <icon src="https://images.pluto.tv/series/61a6276d178ebd00137ad118/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6202ab549654c800076ee13f" start="20250221202700 +0000" stop="20250221230000 +0000">
         <title>Nickelodeon Rocket Power</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6202ab549654c800076ee13f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38592,7 +38847,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Bob Esponja Pantalones Cuadrados</desc>
         <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6254598f5083f800076d8563" start="20250221200000 +0000" stop="20250221230000 +0000">
+    <programme channel="6254598f5083f800076d8563" start="20250221200000 +0000" stop="20250221210000 +0000">
+        <title>Bob Esponja Pantalones Cuadrados</title>
+        <desc>Bob Esponja Pantalones Cuadrados</desc>
+        <icon src="https://images.pluto.tv/series/67ad2e6e8344dd93339b7e69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6254598f5083f800076d8563" start="20250221210000 +0000" stop="20250221230000 +0000">
         <title>Bob Esponja Pantalones Cuadrados</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38612,7 +38872,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Crocker quiere hacerse cargo de los poderes de los padrinos mágicos. Pero su plan se sale fuera de control cuando entra a la estación de transformación que deseó Timmy. / Timmy desea que la tecnología desaparezca del mundo.</desc>
         <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6322099c822bbc00074857db" start="20250221191200 +0000" stop="20250221230000 +0000">
+    <programme channel="6322099c822bbc00074857db" start="20250221191200 +0000" stop="20250221194100 +0000">
+        <title>Los Padrinos Mágicos</title>
+        <desc>Cuando Timmy no obtiene lo que quiere en Navidad, simplemente lo desea. Pero sus amigos no pueden hacer lo mismo, entonces Timmy desea que cada niño obtenga un cupón mágico que les permita un deseo.</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20250221194100 +0000" stop="20250221201000 +0000">
+        <title>Los Padrinos Mágicos</title>
+        <desc>La enemiga de Mark Chang, la malvada Princesa Mandie, es la persona más temible en el universo. Y cuando Timmy le presenta a Vicky, ¡es como si una guerra intergaláctica se desatara! / ¿Ha ido Timmy al lado oscuro?</desc>
+        <icon src="https://images.pluto.tv/series/631a0d4bc38c5300133782a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6322099c822bbc00074857db" start="20250221201000 +0000" stop="20250221230000 +0000">
         <title>Los Padrinos Mágicos</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38622,7 +38892,22 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Cuando una avispa parasítica controla la mente de Leonardo, Rafael y Donatelo, Miguel Angel debe pelear contra sus hermanos para salvarlos.</desc>
         <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63dd5d7a4e83e700088fbca8" start="20250221190200 +0000" stop="20250221230000 +0000">
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20250221190200 +0000" stop="20250221193000 +0000">
+        <title>Teenage Mutant Ninja Turtles</title>
+        <desc>Donatelo entra a un centro de detención secreto del Kraang a rescatar a Kirby O´Neal.Cuando descubre que está atrapado con un mutante mortal se da cuenta que entrar fue la parte fácil.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20250221193000 +0000" stop="20250221195800 +0000">
+        <title>Teenage Mutant Ninja Turtles</title>
+        <desc>Cuando las Tortugas entran al T.C.R.I. en un desesperado intento por cerrar un portal extraterrestre, se enfrentan a una de sus batallas más terribles.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20250221195800 +0000" stop="20250221202700 +0000">
+        <title>Teenage Mutant Ninja Turtles</title>
+        <desc>Cuando las Tortugas entran al T.C.R.I. en un desesperado intento por cerrar un portal extraterrestre, se enfrentan a una de sus batallas más terribles.</desc>
+        <icon src="https://images.pluto.tv/series/63ff6e23689edb0013bce4e7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63dd5d7a4e83e700088fbca8" start="20250221202700 +0000" stop="20250221230000 +0000">
         <title>Las Tortugas Ninja</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38632,7 +38917,22 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Bob Esponja y Calamardo tratan de entregar una pizza a un cliente del Crustáceo Cascarudo. / Bob Esponja busca una casa nueva después de que los nematodos se comieran su casa.</desc>
         <icon src="https://images.pluto.tv/series/62503f474a1dfc0013fc97df/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645952687cb4b100084ed52e" start="20250221190200 +0000" stop="20250221230000 +0000">
+    <programme channel="645952687cb4b100084ed52e" start="20250221190200 +0000" stop="20250221193100 +0000">
+        <title>Bob Esponja: Bienvenido al balde de bocados / Frankentrazo</title>
+        <desc>Don Cangrejo pierde una apuesta y Bob Esponja es obligado a ir a trabajar en el Balde de Bocados. / Bob Esponja y Patricio encuentran un lápiz mágico que da vida a todo lo que dibujan.</desc>
+        <icon src="https://images.pluto.tv/series/62503f474a1dfc0013fc97df/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20250221193100 +0000" stop="20250221200000 +0000">
+        <title>Bob Esponja: Boca de marinero / Artista desconocido</title>
+        <desc>Bob Esponja y Patricio conocen una nueva palabra y la empiezan a decir una y otra vez sin saber que es una mala palabra. / Calamardo comienza a dar clases de arte, y Bob Esponja es tan bueno que hace una gran estatua.</desc>
+        <icon src="https://images.pluto.tv/series/62503f474a1dfc0013fc97df/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20250221200000 +0000" stop="20250221202900 +0000">
+        <title>Bob Esponja: No se admiten pequeñines / El regreso de Calamarino</title>
+        <desc>Bob Esponja deberá probar que es rudo para poder ingresar a la Escupidera de Salty / Calamardo convierte el Crustáceo Cascarudo en un restaurante muy fino .para impresionar a su rival de la secundaria, Calamarino Elegante.</desc>
+        <icon src="https://images.pluto.tv/series/62503f474a1dfc0013fc97df/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645952687cb4b100084ed52e" start="20250221202900 +0000" stop="20250221230000 +0000">
         <title>Nickelodeon Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645952687cb4b100084ed52e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38642,7 +38942,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Es Halloween y los cachorros se disfrazan para la fiesta que el Capitán Turbot dará en un viejo barco pirata. Pero cuando un fantasma lleva el barco hacia el mar, Ryder y los Cachorros deben salvarlo.</desc>
         <icon src="https://images.pluto.tv/series/64e61ef08a0f710013e510bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6495c6ad115d060008bf6b52" start="20250221190800 +0000" stop="20250221230000 +0000">
+    <programme channel="6495c6ad115d060008bf6b52" start="20250221190800 +0000" stop="20250221193600 +0000">
+        <title>PAW Patrol</title>
+        <desc>Cuando el trineo de Santa se estrella y sus renos huyen, Ryder y la patrulla de cachorros se preparan para salir al rescate y ayudarlo a entregar los regalos y a salvar la Navidad.</desc>
+        <icon src="https://images.pluto.tv/series/64e61ef08a0f710013e510bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6495c6ad115d060008bf6b52" start="20250221193600 +0000" stop="20250221200400 +0000">
+        <title>PAW Patrol</title>
+        <desc>Cuando la Alcaldesa Goodway alaba el trabajo de Rubble, vemos una retrospectiva de cómo Ryder y los demás conocieron a Rubble. / El mejor amigo del Capitán Turbot, Wally la morsa, queda atrapada bajo el agua en una red.</desc>
+        <icon src="https://images.pluto.tv/series/64e61ef08a0f710013e510bb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6495c6ad115d060008bf6b52" start="20250221200400 +0000" stop="20250221230000 +0000">
         <title>PAW Patrol Patrulla de Cachorros</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38652,7 +38962,22 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Dora y Botas se disponen a ayudar al Rey Juan el Bobo a que encuentre su corona para que todos puedan ir al cumpleaños de su Mami. ¿A dónde habrá dejado su corona este rey olvidadizo?</desc>
         <icon src="https://images.pluto.tv/series/654e4f4891ee7c001ad64f5d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656e28a2954b020008ed133a" start="20250221190100 +0000" stop="20250221230000 +0000">
+    <programme channel="656e28a2954b020008ed133a" start="20250221190100 +0000" stop="20250221193000 +0000">
+        <title>Dora la Exploradora</title>
+        <desc>Es Halloween y Dora y Botas salen a pedir dulces hasta que un lindo monstruito los sorprende. Dora y Botas lo acompañan a llegar a casa antes de que las agujas del Gran Reloj marquen las doce.</desc>
+        <icon src="https://images.pluto.tv/series/654e4f4891ee7c001ad64f5d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656e28a2954b020008ed133a" start="20250221193000 +0000" stop="20250221195800 +0000">
+        <title>Dora la Exploradora</title>
+        <desc>Dora tiene una gran sorpresa para su cachorro, Perrito, por el día de los gemelos. Ayuda a Dora, Botas y Perrito en una aventura para encontrar el gemelo de Perrito y descubrir quién es su dueño.</desc>
+        <icon src="https://images.pluto.tv/series/654e4f4891ee7c001ad64f5d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656e28a2954b020008ed133a" start="20250221195800 +0000" stop="20250221202600 +0000">
+        <title>Dora la Exploradora</title>
+        <desc>¡Súmate a Dora y a Botas para llevar al Bebé Winky de vuelta con su familia antes que despegue la nave espacial hacia el Planeta Morado!</desc>
+        <icon src="https://images.pluto.tv/series/654e4f4891ee7c001ad64f5d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656e28a2954b020008ed133a" start="20250221202600 +0000" stop="20250221230000 +0000">
         <title>Dora, La Exploradora</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656e28a2954b020008ed133a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38662,7 +38987,12 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>¡Oye! MTV celebra los últimos y mejores videos musicales de Hip-Hop. ¡Seleccionamos cuidadosamente a los mejores artistas de Rap, R&amp;B y latinos para comenzar cualquier fiesta!</desc>
         <icon src="https://images.pluto.tv/series/66bf897a3c67ce000892f086/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a01adf46762a00081ee3dc" start="20250221200000 +0000" stop="20250221230000 +0000">
+    <programme channel="66a01adf46762a00081ee3dc" start="20250221200000 +0000" stop="20250221210000 +0000">
+        <title>MTV YO!</title>
+        <desc>¡Oye! MTV celebra los últimos y mejores videos musicales de Hip-Hop. ¡Seleccionamos cuidadosamente a los mejores artistas de Rap, R&amp;B y latinos para comenzar cualquier fiesta!</desc>
+        <icon src="https://images.pluto.tv/series/66bf897a3c67ce000892f086/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01adf46762a00081ee3dc" start="20250221210000 +0000" stop="20250221230000 +0000">
         <title>Yo! MTV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a01adf46762a00081ee3dc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38672,7 +39002,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>The Pretender (Foo Fighters) / Drive (Incubus) / Wolves Of Winter (Biffy Clyro) / Dance Dance (Fall Out Boy) / How You Remind Me (Nickelback)</desc>
         <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a01b52a4ee27000808ea36" start="20250221191000 +0000" stop="20250221230000 +0000">
+    <programme channel="66a01b52a4ee27000808ea36" start="20250221191000 +0000" stop="20250221193400 +0000">
+        <title>Rock Anthems of the Century: Feeder / Bullet For My Valentine / Deftones / Limp Bizkit / Sum 41</title>
+        <desc>Just A Day (Feeder) / Your Betrayal (Bullet For My Valentine) / Change (In The House Of Flies) (Deftones) / Rollin' (Limp Bizkit) / In Too Deep (Sum 41)</desc>
+        <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01b52a4ee27000808ea36" start="20250221193400 +0000" stop="20250221200200 +0000">
+        <title>Rock Anthems of the Century</title>
+        <desc>Closer To The Edge (30 Seconds To Mars) / Mr Brightside (The Killers) / Adventure Of A Lifetime (Coldplay) / Bring Me To Life (Evanescence Ft. Paul McCoy) / Californication (Red Hot Chili Peppers)</desc>
+        <icon src="https://images.pluto.tv/series/66993bec17101c0013f32593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a01b52a4ee27000808ea36" start="20250221200200 +0000" stop="20250221230000 +0000">
         <title>MTV Rocks</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38682,7 +39022,17 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Can't Get You Out Of My Head (Kylie Minogue) / American Idiot (Green Day) / Milkshake (Kelis) / Low (Flo-Rida feat T-Pain) / I Kissed A Girl (Katy Perry) /Hung Up (Madonna) / Hey Ya (Outkast)</desc>
         <icon src="https://images.pluto.tv/series/66993cd461ac500014a7f229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a11a21a79dea0008aa90ca" start="20250221191400 +0000" stop="20250221230000 +0000">
+    <programme channel="66a11a21a79dea0008aa90ca" start="20250221191400 +0000" stop="20250221194200 +0000">
+        <title>00s Hits</title>
+        <desc>It Wasn't Me (Shaggy ft. Rik Rok) / I'm Yours (Jason Mraz) / We Belong Together (Mariah Carey) / Without Me (Eminem) / Hollaback Girl (Gwen Stefani) / Where Is The Love (The Black Eyed Peas)</desc>
+        <icon src="https://images.pluto.tv/series/66993cd461ac500014a7f229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a11a21a79dea0008aa90ca" start="20250221194200 +0000" stop="20250221200900 +0000">
+        <title>00s Hits</title>
+        <desc>Californication (Red Hot Chili Peppers) / Hips Don't Lie (Shakira Ft. Wyclef Jean) / The Scientist (Coldplay) / Ms. Jackson (Outkast) / Complicated (Avril Lavigne)</desc>
+        <icon src="https://images.pluto.tv/series/66993cd461ac500014a7f229/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a11a21a79dea0008aa90ca" start="20250221200900 +0000" stop="20250221230000 +0000">
         <title>MTV Classic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/featuredImage.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -38692,7 +39042,22 @@ Este canal te acompañamos durante 24 horas, los 7 días de la semana con los ro
         <desc>Eugene se desilusiona de su vida tras enterarse de que su héroe favorito del cine de acción no hace sus propias acrobacias y decide que ya nada le importa / Arnold y sus amigos van de viaje a la ópera y sueñan un musical propio</desc>
         <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c79221b1a34600087e264d" start="20250221190200 +0000" stop="20250221230000 +0000">
+    <programme channel="66c79221b1a34600087e264d" start="20250221190200 +0000" stop="20250221193100 +0000">
+        <title>Hey Arnold!</title>
+        <desc>En la noche de Halloween, el vecindario sucumbe a idea de alienígenas cuando Arnold y Gerald trasmiten por la radio un show en el que anuncian que naves espaciales han aterrizado.</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20250221193100 +0000" stop="20250221200000 +0000">
+        <title>Hey Arnold!</title>
+        <desc>El Señor Simmons le hace a los chicos una prueba para ver cuales son sus trabajos más apropiados, no todos consiguen lo que esperaban. / Arnold le consigue un empleo a Oskar como repartidor de periódicos.</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20250221200000 +0000" stop="20250221202900 +0000">
+        <title>Hey Arnold!</title>
+        <desc>Curly ha estado contando los días para ser monitor de balones, pero cuando el Señor Simmons escoge a Sid. / Phoebe gana un concurso para conocer a su cantante favorito, pero queda destrozada cuando descubre que él no canta sus canciones.</desc>
+        <icon src="https://images.pluto.tv/series/62e9365e7abcdc0013a274f4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c79221b1a34600087e264d" start="20250221202900 +0000" stop="20250221230000 +0000">
         <title>Hey Arnold!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c79221b1a34600087e264d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
