@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="20-02-2025 14:01:25">
+<tv generator-info-name="Created with ❤️ by Neywerson" generator-info-url="https://github.com/Neywerson" date="20-02-2025 14:12:11">
 <tv>
     <channel id="636a4431b7fca900075039e2">
         <display-name>VH1+ Love Music</display-name>
@@ -28811,7 +28811,17 @@ The Script - For The First Time</desc>
         <desc>One day they'll win, right?</desc>
         <icon src="https://images.pluto.tv/series/60a4d696da2f9000132f736f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608014d19a26320007c92ab6" start="20250221172500 +0000" stop="20250221210000 +0000">
+    <programme channel="608014d19a26320007c92ab6" start="20250221172500 +0000" stop="20250221175300 +0000">
+        <title>FailFactory: Home Wreckers</title>
+        <desc>Please don't try this at home.</desc>
+        <icon src="https://images.pluto.tv/series/60a4d696da2f9000132f736f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608014d19a26320007c92ab6" start="20250221175300 +0000" stop="20250221182100 +0000">
+        <title>FailFactory: Catastrophic Karate</title>
+        <desc>No black belts were earned in the making of this episode.</desc>
+        <icon src="https://images.pluto.tv/series/60a4d696da2f9000132f736f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608014d19a26320007c92ab6" start="20250221182100 +0000" stop="20250221210000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608014d19a26320007c92ab6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28821,7 +28831,12 @@ The Script - For The First Time</desc>
         <desc>This episode features the conclusion of the World Poker Tour's 100th tournament, Season Five's WPT World Championship.</desc>
         <icon src="https://images.pluto.tv/series/6082d2bf4964ef001aa4d7cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608016e446d73500075ea7e0" start="20250221173500 +0000" stop="20250221210000 +0000">
+    <programme channel="608016e446d73500075ea7e0" start="20250221173500 +0000" stop="20250221182500 +0000">
+        <title>World Poker Tour: WPT Bay 101 Shooting Star - Part 2</title>
+        <desc>Fast talking and even faster playing Andy Seth starts the night in San Jose California with the chip lead and just four players away from his first WPT title.</desc>
+        <icon src="https://images.pluto.tv/series/6082d0584964ef001aa4ca7d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608016e446d73500075ea7e0" start="20250221182500 +0000" stop="20250221210000 +0000">
         <title>World Poker Tour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608016e446d73500075ea7e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28831,7 +28846,12 @@ The Script - For The First Time</desc>
         <desc>Alla scoperta delle piu' belle salite italiane: Monno Mortirolo</desc>
         <icon src="https://images.pluto.tv/series/67628c40e0aa650013f1c7c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608030eff4b6f70007e1684c" start="20250221174859 +0000" stop="20250221210000 +0000">
+    <programme channel="608030eff4b6f70007e1684c" start="20250221174859 +0000" stop="20250221185401 +0000">
+        <title>Le Grandi Salite</title>
+        <desc>Alla scoperta delle piu' belle salite italiane: Vobarno Passo del Cavallino</desc>
+        <icon src="https://images.pluto.tv/series/67628c40e0aa650013f1c7c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="608030eff4b6f70007e1684c" start="20250221185401 +0000" stop="20250221210000 +0000">
         <title>Pluto TV Sport</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28841,7 +28861,17 @@ The Script - For The First Time</desc>
         <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
         <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f48c95132a00075fd859" start="20250221171200 +0000" stop="20250221210000 +0000">
+    <programme channel="6093f48c95132a00075fd859" start="20250221171200 +0000" stop="20250221174200 +0000">
+        <title>Just for Laughs</title>
+        <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
+        <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f48c95132a00075fd859" start="20250221174200 +0000" stop="20250221181200 +0000">
+        <title>Just for Laughs</title>
+        <desc>Goditi tutta la comicità fornita dallo spettacolo di scherzi più longevo e adorato del mondo, in cui persone ignare vengono trascinate in situazioni esilaranti!</desc>
+        <icon src="https://images.pluto.tv/series/67aef519fcecda97ebbf037f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f48c95132a00075fd859" start="20250221181200 +0000" stop="20250221210000 +0000">
         <title>Just for Laughs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f48c95132a00075fd859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28851,7 +28881,17 @@ The Script - For The First Time</desc>
         <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
         <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f9281db477000759fce0" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="6093f9281db477000759fce0" start="20250221173000 +0000" stop="20250221180000 +0000">
+        <title>Super! SpongeBob</title>
+        <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
+        <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9281db477000759fce0" start="20250221180000 +0000" stop="20250221183000 +0000">
+        <title>Super! SpongeBob</title>
+        <desc>L'unico canale dedicato alla serie televisiva animata americana Spongebob! La serie racconta le avventure e le imprese di Spongebob e dei suoi amici acquatici nella fittizia città sottomarina di Bikini Bottom</desc>
+        <icon src="https://images.pluto.tv/series/6691243632e253000848416c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9281db477000759fce0" start="20250221183000 +0000" stop="20250221210000 +0000">
         <title>Super! SpongeBob</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f9281db477000759fce0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28861,7 +28901,17 @@ The Script - For The First Time</desc>
         <desc>Cristian chiede aiuto a Sebastian e Diego per trovare il suo amore, Andrea, che si trova in Honduras</desc>
         <icon src="https://images.pluto.tv/series/62b413ab4a9f0a00139b8095/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6093f9ed2c75660007322bb7" start="20250221170510 +0000" stop="20250221210000 +0000">
+    <programme channel="6093f9ed2c75660007322bb7" start="20250221170510 +0000" stop="20250221175110 +0000">
+        <title>Catfish: False Identità: Mike &amp; Felicia</title>
+        <desc>Mike e Felicia si sentono costantemente al telefono e in chat, ma quando c'è stata l'occasione di incontrarsi, lei si è tirata indietro. Mike vuole scoprire se può fidarsi ancora di Felicia.</desc>
+        <icon src="https://images.pluto.tv/series/60e31e8f83c54e0013988985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9ed2c75660007322bb7" start="20250221175110 +0000" stop="20250221183750 +0000">
+        <title>Catfish: False Identità: Mecca &amp; Tanner</title>
+        <desc>Max e iO Tillett Wright aiutano Mecca a incontrare il ragazzo con cui ha una storia da 5 anni. Ma potrebbe trattarsi di un catfish!</desc>
+        <icon src="https://images.pluto.tv/series/60e31e8f83c54e0013988985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6093f9ed2c75660007322bb7" start="20250221183750 +0000" stop="20250221210000 +0000">
         <title>Catfish</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28871,7 +28921,12 @@ The Script - For The First Time</desc>
         <desc>Jacques è malato e, dovendo ospitare i membri dell'Associazione Vino Veritas, Max e Giorgio decidono di assumere Enzo. Nonostante la sua incompetenza Enzo riuscirà a fare bella figura.</desc>
         <icon src="https://images.pluto.tv/series/66349f25c2d6a90013ad4ce5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="609404b0a8ec810007d8de9d" start="20250221173121 +0000" stop="20250221210000 +0000">
+    <programme channel="609404b0a8ec810007d8de9d" start="20250221173121 +0000" stop="20250221183446 +0000">
+        <title>Comedy Central - La cena dei cretini</title>
+        <desc>Sonia è stata lasciata dal fidanzato Rocco dopo che lui le ha messo le corna. La loro rottura avrà esilaranti ripercussioni.</desc>
+        <icon src="https://images.pluto.tv/series/66349f25c2d6a90013ad4ce5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="609404b0a8ec810007d8de9d" start="20250221183446 +0000" stop="20250221210000 +0000">
         <title>Pluto TV Scherzi e risate</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28881,7 +28936,17 @@ The Script - For The First Time</desc>
         <desc>Amber vive ad Anderson, Indiana. Ama definirsi una 'party girl' e l'ultima cosa che avrebbe mai immaginato le è accaduta durante l'ultimo anno di liceo: l'arrivo di un bambino.</desc>
         <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60940a07d88ba90007b9cb71" start="20250221171300 +0000" stop="20250221210000 +0000">
+    <programme channel="60940a07d88ba90007b9cb71" start="20250221171300 +0000" stop="20250221180000 +0000">
+        <title>16 anni e Incinta: Ebony</title>
+        <desc>Ebony, figlia di militari, è cresciuta con una rigida disciplina e frequenta una scuola militare. Ora che è incinta, lei e il suo ragazzo, Josh, devono rivedere il proprio futuro.</desc>
+        <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60940a07d88ba90007b9cb71" start="20250221180000 +0000" stop="20250221184700 +0000">
+        <title>16 anni e Incinta: Whitney</title>
+        <desc>Whitney è sempre stata la piccolina di casa. Molte cose cambieranno quando lei e sua madre rimarranno incinte contemporaneamente.</desc>
+        <icon src="https://images.pluto.tv/series/60e31ec483c54e00139896fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60940a07d88ba90007b9cb71" start="20250221184700 +0000" stop="20250221210000 +0000">
         <title>16 Anni e Incinta</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28891,7 +28956,12 @@ The Script - For The First Time</desc>
         <desc>Continuano le soprese per i ragazzi e la loro vacanza da sogno viene rovinata dalla comparsa degli ex. Un appuntamento sexy si trasforma in un caos totale.</desc>
         <icon src="https://images.pluto.tv/series/60ebf486d96ddc001314daad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60940ebad67fd900072382db" start="20250221172500 +0000" stop="20250221210000 +0000">
+    <programme channel="60940ebad67fd900072382db" start="20250221172500 +0000" stop="20250221181100 +0000">
+        <title>Ex On The Beach US: Episodio 4</title>
+        <desc>Angela si rivolge al suo ex quando sente parlare di quello che è successo tra il suo ragazzo e qualcun altro.</desc>
+        <icon src="https://images.pluto.tv/series/60ebf486d96ddc001314daad/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60940ebad67fd900072382db" start="20250221181100 +0000" stop="20250221210000 +0000">
         <title>Ex On The Beach</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60940ebad67fd900072382db/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28901,7 +28971,12 @@ The Script - For The First Time</desc>
         <desc>Se i ragazzi pensano che 10 ragazze nella casa siano piu' che sufficienti, una brutta sorpresa li attende. Le loro ex sono state invitate dalle coinquiline per rispondere a tutte le loro domande...</desc>
         <icon src="https://images.pluto.tv/series/611e760ce4122100137b2c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61925f874b1ec000075e700a" start="20250221170700 +0000" stop="20250221210000 +0000">
+    <programme channel="61925f874b1ec000075e700a" start="20250221170700 +0000" stop="20250221180300 +0000">
+        <title>Are You The One? Brasil: Ep 10</title>
+        <desc>I partecipanti approfittano dell'opportunita' di mandare una nuova coppia al test della verita'. Dopo il lungo percorso che li ha portati fino a questo punto, riusciranno a vincere l'ultima sfida?</desc>
+        <icon src="https://images.pluto.tv/series/611e760ce4122100137b2c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61925f874b1ec000075e700a" start="20250221180300 +0000" stop="20250221210000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61925f874b1ec000075e700a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28911,7 +28986,17 @@ The Script - For The First Time</desc>
         <desc>Un intero canale dedicato a Geordie Shore. Ci saranno da riempire bicchieri e discoteche, con orgoglio e spregiudicatezza in pieno stile geordies, i tamarri "Made in UK".</desc>
         <icon src="https://images.pluto.tv/series/675c2eb692fcc60008f0047a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619263ee9541940007d20d60" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="619263ee9541940007d20d60" start="20250221173000 +0000" stop="20250221180000 +0000">
+        <title>Geordie Shore</title>
+        <desc>Un intero canale dedicato a Geordie Shore. Ci saranno da riempire bicchieri e discoteche, con orgoglio e spregiudicatezza in pieno stile geordies, i tamarri "Made in UK".</desc>
+        <icon src="https://images.pluto.tv/series/675c2eb692fcc60008f0047a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619263ee9541940007d20d60" start="20250221180000 +0000" stop="20250221185000 +0000">
+        <title>Geordie Shore: Double Dating</title>
+        <desc>I Geordies se la vedono con Marnie, la terribile cuginetta di Sophie. Gary e Scott fanno nottata e Charlotte e' divisa tra il fidanzato a Londra e le serate in citta' con i ragazzi.</desc>
+        <icon src="https://images.pluto.tv/series/617a51626b2c51001aee1dd1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619263ee9541940007d20d60" start="20250221185000 +0000" stop="20250221210000 +0000">
         <title>Geordie Shore</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619263ee9541940007d20d60/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28921,7 +29006,17 @@ The Script - For The First Time</desc>
         <desc>Pif conosce la giapponese Maya tramite il suo blog. Se ne invaghisce e decide di andare in Giappone per conquistarla.</desc>
         <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fbd3f0733df400076c9a2d" start="20250221171600 +0000" stop="20250221210000 +0000">
+    <programme channel="61fbd3f0733df400076c9a2d" start="20250221171600 +0000" stop="20250221175000 +0000">
+        <title>Il Testimone: Innamorarsi A Tokyo</title>
+        <desc>Maya è una ragazza giapponese, ha 23 anni, vive a Tokyo e ha un blog dove scrive in giapponese e in italiano. E' grazie al suo blog che Pif la conosce e se ne innamora...</desc>
+        <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fbd3f0733df400076c9a2d" start="20250221175000 +0000" stop="20250221184000 +0000">
+        <title>Il Testimone: Bianca Balti</title>
+        <desc>Pif racconta la vita di Bianca Balti che si divide tra una figlia da accompagnare all'asilo, il calendario Pirelli, la spesa e i servizi per la più importante rivista fashion del mondo.</desc>
+        <icon src="https://images.pluto.tv/series/617a518f6b2c51001aee2778/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fbd3f0733df400076c9a2d" start="20250221184000 +0000" stop="20250221210000 +0000">
         <title>Il Testimone</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28931,7 +29026,17 @@ The Script - For The First Time</desc>
         <desc>È il giorno del compleanno di Timmy. Cosmo e Wanda hanno programmato un'intera giornata di festeggiamenti. // Come tutti gli anni, Timmy organizza la Settembre-Festa, l'evento dell'anno che ospiterà le stelle più importanti.</desc>
         <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62b57a6752a0060008bc65cd" start="20250221172500 +0000" stop="20250221210000 +0000">
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221172500 +0000" stop="20250221175100 +0000">
+        <title>Due Fantagenitori: L'Anti-Poof</title>
+        <desc>Anti-Cosmo e Anti Wanda mettono al mondo Foop, l'Anti-Poof, cattivissimo neonato che si propone di annientare il buon Poof.</desc>
+        <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221175100 +0000" stop="20250221181600 +0000">
+        <title>Due Fantagenitori: Basta un papà / Il rito di passaggio</title>
+        <desc>Il padre di Timmy è troppo occupato con i suoi mille lavori e Timmy si sente trascurato. // Timmy e i suoi amici scout devono compiere la scalata del Monte Doomsdale come rito di passaggio dall'adolescenza.</desc>
+        <icon src="https://images.pluto.tv/series/6107b5508839b900134373ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62b57a6752a0060008bc65cd" start="20250221181600 +0000" stop="20250221210000 +0000">
         <title>Due Fantagenitori</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62b57a6752a0060008bc65cd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28941,7 +29046,17 @@ The Script - For The First Time</desc>
         <desc>Garrison conosce un nuovo locale, il Lesbos, frequentato da lesbiche. Ma un gruppo dii persiani vuole rilevare il bar e cambiare la clientela abituale.</desc>
         <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62bc1f502b70e3000706298e" start="20250221171837 +0000" stop="20250221210000 +0000">
+    <programme channel="62bc1f502b70e3000706298e" start="20250221171837 +0000" stop="20250221174337 +0000">
+        <title>South Park: La Notte Dei Barboni Viventi</title>
+        <desc>I ragazzi sono sempre piu' infastidi dai barboni che vivono a South Park. Per liberarsene, adottano il metodo utilizzato da tutte le citta'.</desc>
+        <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bc1f502b70e3000706298e" start="20250221174337 +0000" stop="20250221180837 +0000">
+        <title>South Park: Il Piccolo Tourette</title>
+        <desc>Quando scopre la sindrome di Tourette, per la quale il malato insulta e impreca conto la sua volonta', Cartman finge di esserne affetto.</desc>
+        <icon src="https://images.pluto.tv/series/611e0879cbc31c0013c5c96f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62bc1f502b70e3000706298e" start="20250221180837 +0000" stop="20250221210000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62bc1f502b70e3000706298e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28951,7 +29066,12 @@ The Script - For The First Time</desc>
         <desc>Jenelle torna con Kieffer dopo averlo fatto uscire di prigione, ma la madre lo scopre e la manda via. Leah comincia a lavorare. Kailyn e Jordan festeggiano Halloween insieme a Isaac.</desc>
         <icon src="https://images.pluto.tv/series/617a513a6b2c51001aee134c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e7fc8c0d061100083946a9" start="20250221174600 +0000" stop="20250221210000 +0000">
+    <programme channel="62e7fc8c0d061100083946a9" start="20250221174600 +0000" stop="20250221183500 +0000">
+        <title>Teen Mom 2: Curveball</title>
+        <desc>Leah e' sconvolta dalla notizia che Ali ha un problema serio al nervo ottico. Jenelle dorme in auto con Kieffer. Kailyn vuole lasciare la casa dei genitori del suo ragazzo, ma non sa come mantenersi.</desc>
+        <icon src="https://images.pluto.tv/series/617a513a6b2c51001aee134c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e7fc8c0d061100083946a9" start="20250221183500 +0000" stop="20250221210000 +0000">
         <title>Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28961,7 +29081,22 @@ The Script - For The First Time</desc>
         <desc>In questo episodio di Pimp My Ride, Xzibit e i ragazzi fanno splendere il Cougar Mercury del '68 di John.</desc>
         <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="636a4eaf77279a0007f14861" start="20250221170400 +0000" stop="20250221210000 +0000">
+    <programme channel="636a4eaf77279a0007f14861" start="20250221170400 +0000" stop="20250221172800 +0000">
+        <title>Pimp My Ride: '78 Monte Carlo</title>
+        <desc>In questo episodio di Pimp My Ride, Xzibit e i ragazzi fanno un tuffo nel passato mettendo le mani sulla Monte Carlo del 78' di Gerald.</desc>
+        <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="636a4eaf77279a0007f14861" start="20250221172800 +0000" stop="20250221175200 +0000">
+        <title>Pimp My Ride: 1968 Cougar</title>
+        <desc>In questo episodio di Pimp My Ride, Xzibit e i ragazzi aiutano John a sistemare la sua Mercury Cougar del '68.</desc>
+        <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="636a4eaf77279a0007f14861" start="20250221175200 +0000" stop="20250221181600 +0000">
+        <title>Pimp My Ride: '95 Probe</title>
+        <desc>Xzibit mette le mani su una Probe del 1995 che per una parte è Ford e tre parti discarica.</desc>
+        <icon src="https://images.pluto.tv/series/63c56670501aab0013be7f1c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="636a4eaf77279a0007f14861" start="20250221181600 +0000" stop="20250221210000 +0000">
         <title>Pimp My Ride</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/636a4eaf77279a0007f14861/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28971,7 +29106,12 @@ The Script - For The First Time</desc>
         <desc>Regate, grandi eventi, saloni nautici tutto dal mondo della cantieristica a vela e a motore.</desc>
         <icon src="https://images.pluto.tv/series/6140ae0f08ae6e0007f9b20c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb58aa60bc8f0008caa8f8" start="20250221171700 +0000" stop="20250221210000 +0000">
+    <programme channel="63eb58aa60bc8f0008caa8f8" start="20250221171700 +0000" stop="20250221181600 +0000">
+        <title>The Boat Show</title>
+        <desc>Regate, grandi eventi, saloni nautici tutto dal mondo della cantieristica a vela e a motore.</desc>
+        <icon src="https://images.pluto.tv/series/6140ae0f08ae6e0007f9b20c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb58aa60bc8f0008caa8f8" start="20250221181600 +0000" stop="20250221210000 +0000">
         <title>The Boat Show</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb58aa60bc8f0008caa8f8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28981,7 +29121,22 @@ The Script - For The First Time</desc>
         <desc>L'origine degli Oggetti del Millennio viene svelata! Chi ha forgiato questi potenti manufatti, e perché furono creati?</desc>
         <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb82e24e83e70008ab735f" start="20250221170718 +0000" stop="20250221210000 +0000">
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221170718 +0000" stop="20250221173057 +0000">
+        <title>Yu-Gi-Oh!: La fortuna gira</title>
+        <desc>Il Faraone evoca la possente Divinità Egizia Slifer il Drago del Cielo per affrontare Diabound del ladro Bakura, ma quando Diabound inizia ad attaccare gli abitanti del posto, il Faraone deve proteggerli, anche se significa sacrificare se stesso!</desc>
+        <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221173057 +0000" stop="20250221175434 +0000">
+        <title>Yu-Gi-Oh!: Alla ricerca del Faraone</title>
+        <desc>Il ladro Bakura ha rubato il Puzzle del Millennio e fatto precipitare il Faraone nell'abisso – ora è un altro passo più vicino a ottenere tutti e sette gli Oggetti del Millennio!</desc>
+        <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221175434 +0000" stop="20250221181813 +0000">
+        <title>Yu-Gi-Oh!: Il villaggio della vendetta</title>
+        <desc>Yugi e il Faraone si ritrovano, ma il Faraone è impotente senza il Puzzle del Millennio!</desc>
+        <icon src="https://images.pluto.tv/series/64ad0d68fdd8620013211008/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63eb82e24e83e70008ab735f" start="20250221181813 +0000" stop="20250221210000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -28991,7 +29146,12 @@ The Script - For The First Time</desc>
         <desc>Richard testa la supercar Lexus da 340.000 sterline sulla pista Top Gear. Jeremy fa un film sulla BMW X6 e finisce per condurre uno dei test stradali più costosi nella storia di Top Gear. James guida la nuova Vauxhall Insignia VXR.</desc>
         <icon src="https://images.pluto.tv/series/652524d82a6001001a82925e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c109a4798def0008a6e03e" start="20250221172700 +0000" stop="20250221210000 +0000">
+    <programme channel="64c109a4798def0008a6e03e" start="20250221172700 +0000" stop="20250221182400 +0000">
+        <title>Top Gear: Toyota Hilux Invincible Up An Icelandic Volcano</title>
+        <desc>Alle pendici di un vulcano islandese, James May si cimenta con una Toyota Hilux, Richard Hammond testa una vecchia Chevrolet e Jeremy Clarkson ospita un party pseudo-hollywoodiano.</desc>
+        <icon src="https://images.pluto.tv/series/652524d82a6001001a82925e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c109a4798def0008a6e03e" start="20250221182400 +0000" stop="20250221210000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29001,7 +29161,12 @@ The Script - For The First Time</desc>
         <desc>The teams are Donald Thump, Behemoth, Sabretooth, Apollo, Apocalypse and The Swarm. Along the way they must dodge arena hazards, menacing house robots and the all-new Fog of War.</desc>
         <icon src="https://images.pluto.tv/series/65800a79a95cb10014b6d9c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="651581ba6a84140008593586" start="20250221175700 +0000" stop="20250221210000 +0000">
+    <programme channel="651581ba6a84140008593586" start="20250221175700 +0000" stop="20250221190600 +0000">
+        <title>Robot Wars</title>
+        <desc>Returning champions Carbide mount their title defence against some of the toughest machines in the competition. They will have to fight through brutal group battles and nightmarish knockout rounds to make it to the heat final.</desc>
+        <icon src="https://images.pluto.tv/series/65800a79a95cb10014b6d9c8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="651581ba6a84140008593586" start="20250221190600 +0000" stop="20250221210000 +0000">
         <title>Robot Wars by MECH+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/651581ba6a84140008593586/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29011,7 +29176,12 @@ The Script - For The First Time</desc>
         <desc>Scopriamo i migliori artisti queer, i video musicali più innovativi e la tua musica preferita.</desc>
         <icon src="https://images.pluto.tv/series/66a230fa61ac50001437c243/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656d86e957fe4a00087e0e94" start="20250221171100 +0000" stop="20250221210000 +0000">
+    <programme channel="656d86e957fe4a00087e0e94" start="20250221171100 +0000" stop="20250221184400 +0000">
+        <title>OUTshorts</title>
+        <desc>Guardiamo una selezione di cortometraggi queer, storie divertenti e documentari ispirazione.</desc>
+        <icon src="https://images.pluto.tv/series/66a230fa61ac50001437c268/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656d86e957fe4a00087e0e94" start="20250221184400 +0000" stop="20250221210000 +0000">
         <title>PRIDEtv</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656d86e957fe4a00087e0e94/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29021,7 +29191,12 @@ The Script - For The First Time</desc>
         <desc>Racing, donuts, freestyle and special guests as Monster Jam visits AT&amp;T Stadium.</desc>
         <icon src="https://images.pluto.tv/series/65dd0393dfc40a001450f6a9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65bce7f1d77d450008b3a430" start="20250221174700 +0000" stop="20250221210000 +0000">
+    <programme channel="65bce7f1d77d450008b3a430" start="20250221174700 +0000" stop="20250221183700 +0000">
+        <title>Monster Jam World Finals</title>
+        <desc>World finals continue; preparing to crown the 2017 freestyle champion.</desc>
+        <icon src="https://images.pluto.tv/series/6669d6798ea0be00137d493e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bce7f1d77d450008b3a430" start="20250221183700 +0000" stop="20250221210000 +0000">
         <title>Monster Jam</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65bce7f1d77d450008b3a430/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29031,7 +29206,17 @@ The Script - For The First Time</desc>
         <desc>In questo episodio partecipate ai preparativi per il matrimonio con un'effervescente futura sposa, sentite l'atmosfera stravagante di una discoteca anni '70 e osservate i coraggiosi pompieri mentre cercano di salvare i cittadini un po' strani.</desc>
         <icon src="https://images.pluto.tv/series/65f95e7603625d0013cbd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d7211d0d45610008ffcf92" start="20250221172202 +0000" stop="20250221210000 +0000">
+    <programme channel="65d7211d0d45610008ffcf92" start="20250221172202 +0000" stop="20250221174617 +0000">
+        <title>LOL ComediHa!</title>
+        <desc>In questo episodio viaggiate su una montagna nella giungla con i ricercatori che osservano un gorilla intelligente, assistete alle tecniche fantasiose utilizzate dai paramedici sulla scena di un incidente e calatevi nei panni di un nuovo prigioniero.</desc>
+        <icon src="https://images.pluto.tv/series/65f95e7603625d0013cbd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7211d0d45610008ffcf92" start="20250221174617 +0000" stop="20250221181047 +0000">
+        <title>LOL ComediHa!</title>
+        <desc>In questo episodio vedrai vacanzieri su una spiaggia in Messico, naufraghi su un'isola deserta, soldati della guerra del Vietnam e mafiosi degli anni Cinquanta.</desc>
+        <icon src="https://images.pluto.tv/series/65f95e7603625d0013cbd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d7211d0d45610008ffcf92" start="20250221181047 +0000" stop="20250221210000 +0000">
         <title>LOL:-)</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29041,7 +29226,12 @@ The Script - For The First Time</desc>
         <desc>Women's Semifinal - Chezka Centeno vs Seoa Seo from February 24, 2024.</desc>
         <icon src="https://images.pluto.tv/series/6697f19a97009300137bf1ab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65df0b428b24c80008eec0b6" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="65df0b428b24c80008eec0b6" start="20250221173000 +0000" stop="20250221190000 +0000">
+        <title>Billiards</title>
+        <desc>Featuring Women's Final, Chezka Centeno vs. Siming Chen.</desc>
+        <icon src="https://images.pluto.tv/series/6697f19a97009300137bf1ab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65df0b428b24c80008eec0b6" start="20250221190000 +0000" stop="20250221210000 +0000">
         <title>Billiard TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65df0b428b24c80008eec0b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29051,7 +29241,17 @@ The Script - For The First Time</desc>
         <desc>Realmadrid TV è il canale del Real Madrid con approfondimenti sulla squadra di calcio spagnola. Il canale è disponibile su Pluto TV in inglese.</desc>
         <icon src="https://images.pluto.tv/series/660f9fedc8311c0008be9ee9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f955ff18036500084e88fc" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="65f955ff18036500084e88fc" start="20250221173000 +0000" stop="20250221180000 +0000">
+        <title>Realmadrid TV</title>
+        <desc>Realmadrid TV è il canale del Real Madrid con approfondimenti sulla squadra di calcio spagnola. Il canale è disponibile su Pluto TV in inglese.</desc>
+        <icon src="https://images.pluto.tv/series/660f9fedc8311c0008be9ee9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f955ff18036500084e88fc" start="20250221180000 +0000" stop="20250221183000 +0000">
+        <title>Realmadrid TV</title>
+        <desc>Realmadrid TV è il canale del Real Madrid con approfondimenti sulla squadra di calcio spagnola. Il canale è disponibile su Pluto TV in inglese.</desc>
+        <icon src="https://images.pluto.tv/series/660f9fedc8311c0008be9ee9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f955ff18036500084e88fc" start="20250221183000 +0000" stop="20250221210000 +0000">
         <title>Realmadrid TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65f955ff18036500084e88fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29061,7 +29261,17 @@ The Script - For The First Time</desc>
         <desc>Gigetto non sta tanto bene, ha fumato troppo crack. Ruggero e Gianluca in una trasmissione televisiva.</desc>
         <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6602acadb2abe500081cf28a" start="20250221172529 +0000" stop="20250221210000 +0000">
+    <programme channel="6602acadb2abe500081cf28a" start="20250221172529 +0000" stop="20250221175148 +0000">
+        <title>I soliti idioti: Sì... Ma lo scontrino?</title>
+        <desc>Dal cartolaio il ragazzo rasta entra per comprare blocchi da disegno A4, ma il negoziante non vuole fare lo scontrino. La ministra ha subìto intercettazioni telefoniche.</desc>
+        <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6602acadb2abe500081cf28a" start="20250221175148 +0000" stop="20250221181739 +0000">
+        <title>I soliti idioti: Omo e Sessuale</title>
+        <desc>Fabio e Fabio portano i cani Omo e Sessuale a fare una passeggiata al parco. Gigetto comunica ai genitori che Niccolò non è in balera, ma in galera.</desc>
+        <icon src="https://images.pluto.tv/series/6639d878e42c230013de203e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6602acadb2abe500081cf28a" start="20250221181739 +0000" stop="20250221210000 +0000">
         <title>I soliti idioti</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6602acadb2abe500081cf28a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29081,7 +29291,17 @@ The Script - For The First Time</desc>
         <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
         <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6616a51124e1d00008761a7e" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="6616a51124e1d00008761a7e" start="20250221173000 +0000" stop="20250221180000 +0000">
+        <title>Triton Poker</title>
+        <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
+        <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6616a51124e1d00008761a7e" start="20250221180000 +0000" stop="20250221183000 +0000">
+        <title>Triton Poker</title>
+        <desc>Tuffati nel mondo del grande poker con Triton Poker, la tua finestra sulle serie di poker più prestigiose del mondo. Guarda i giocatori d'élite in emozionanti tornei, live 24 ore su 24.</desc>
+        <icon src="https://images.pluto.tv/series/663dc8ce0120f400089d9941/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6616a51124e1d00008761a7e" start="20250221183000 +0000" stop="20250221210000 +0000">
         <title>Triton Poker</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6616a51124e1d00008761a7e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29091,7 +29311,17 @@ The Script - For The First Time</desc>
         <desc>Immergiti nella DFB-Pokal e in altri contenuti calcistici tedeschi su DFB Play TV, live e gratuiti.</desc>
         <icon src="https://images.pluto.tv/series/6763e6b560fbeb0008271310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66461e4394d5580008cfd9c5" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="66461e4394d5580008cfd9c5" start="20250221173000 +0000" stop="20250221180000 +0000">
+        <title>DFB Play TV</title>
+        <desc>Immergiti nella DFB-Pokal e in altri contenuti calcistici tedeschi su DFB Play TV, live e gratuiti.</desc>
+        <icon src="https://images.pluto.tv/series/6763e6b560fbeb0008271310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66461e4394d5580008cfd9c5" start="20250221180000 +0000" stop="20250221183000 +0000">
+        <title>DFB Play TV</title>
+        <desc>Immergiti nella DFB-Pokal e in altri contenuti calcistici tedeschi su DFB Play TV, live e gratuiti.</desc>
+        <icon src="https://images.pluto.tv/series/6763e6b560fbeb0008271310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66461e4394d5580008cfd9c5" start="20250221183000 +0000" stop="20250221210000 +0000">
         <title>DFB Play TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66461e4394d5580008cfd9c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29101,7 +29331,17 @@ The Script - For The First Time</desc>
         <desc>Su MODUS Super Series Darts troverai sei giorni alla settimana, 50 settimane all'anno un sacco di contenuti esclusivi di freccette, con notizie, opinionisti e interviste.</desc>
         <icon src="https://images.pluto.tv/series/67501961eeb33700086209ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671655b2daad7f00085d202d" start="20250221173000 +0000" stop="20250221210000 +0000">
+    <programme channel="671655b2daad7f00085d202d" start="20250221173000 +0000" stop="20250221180000 +0000">
+        <title>MODUS Super Series Darts</title>
+        <desc>Su MODUS Super Series Darts troverai sei giorni alla settimana, 50 settimane all'anno un sacco di contenuti esclusivi di freccette, con notizie, opinionisti e interviste.</desc>
+        <icon src="https://images.pluto.tv/series/67501961eeb33700086209ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671655b2daad7f00085d202d" start="20250221180000 +0000" stop="20250221183000 +0000">
+        <title>MODUS Super Series Darts</title>
+        <desc>Su MODUS Super Series Darts troverai sei giorni alla settimana, 50 settimane all'anno un sacco di contenuti esclusivi di freccette, con notizie, opinionisti e interviste.</desc>
+        <icon src="https://images.pluto.tv/series/67501961eeb33700086209ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671655b2daad7f00085d202d" start="20250221183000 +0000" stop="20250221210000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671655b2daad7f00085d202d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
