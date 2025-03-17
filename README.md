@@ -51,8 +51,8 @@ Welcome to **BlutoTV**! Here you will find a vast selection of **Electronic Prog
 | _**EPG .xml** 📄 **EPG .xml.gz** 📦 **M3U Playlist** 🎶_ |
 | --- |
 |1. [EPG BlutoTV / Playlist BlutoTV M3U](https://github.com/Neywerson/blutoTV/tree/PTV1)|
-|2. [EPG BlutoIPTV / Playlist BlutoIPTV M3U](https://github.com/Neywerson/blutoTV/tree/PTV2)|
-|3. [EPG BlutoTiVi / Playlist BlutoTiVi M3U](https://github.com/Neywerson/blutoTV/tree/PTV3)|
+|2. [EPG BlutoIPTiVi / Playlist BlutoIPTV M3U](https://github.com/Neywerson/blutoTV/tree/PTV2)|
+|3. [EPG BlutoIPTV / Playlist BlutoTiVi M3U](https://github.com/Neywerson/blutoTV/tree/PTV3)|
 
 ---
 
