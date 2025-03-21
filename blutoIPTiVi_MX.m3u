@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="https://raw.github.com/Neywerson/blutoTV/PTV2/blutoIPTiVi_MX.xml.gz"
+#EXTM3U url-tvg="https://raw.github.com/Neywerson/blutoTV/PTV1/blutoTV_MX.xml.gz"
 
 # Created with ❤️ by Neywerson
 # Site: https://github.com/Neywerson
-# Last Update: 20-03-2025 16:07:14
+# Last Update: 21-03-2025 10:32:51
 
 #EXTINF:-1 channel-id="646ccd3681844c000974d6f4" tvg-id="646ccd3681844c000974d6f4" tvg-chno="703" tvg-name="ADN40" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="Noticias", ADN40
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646ccd3681844c000974d6f4/master.m3u8?CreatedWithS2by=Neywerson&country=MX&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
