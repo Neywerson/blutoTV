@@ -48,11 +48,14 @@ Welcome to **BlutoTV**! Here you will find a vast selection of **Electronic Prog
 
 🔗 **Access the EPG and M3U Playlists here**:
 
-| _**EPG .xml** 📄 **EPG .xml.gz** 📦 **M3U Playlist** 🎶_ |
+| _**EPG .xml¹** 📄 **EPG .xml.gz¹** 📦 **M3U Playlist** 🎶_ |
 | --- |
 |1. [EPG BlutoTV / Playlist BlutoTV M3U](https://github.com/Neywerson/blutoTV/tree/PTV1)|
-|2. [EPG BlutoIPTiVi / Playlist BlutoIPTiVi M3U](https://github.com/Neywerson/blutoTV/tree/PTV2)|
-|3. [EPG BlutoIPTV / Playlist BlutoIPTV M3U](https://github.com/Neywerson/blutoTV/tree/PTV3)|
+|2. [Playlist BlutoIPTiVi M3U](https://github.com/Neywerson/blutoTV/tree/PTV2)|
+|3. [Playlist BlutoIPTV M3U](https://github.com/Neywerson/blutoTV/tree/PTV3)|
+
+
+¹EPGs files only in the BlutoTV branch, others are inactive, all playlists M3U have built-in EPGs
 
 ---
 
