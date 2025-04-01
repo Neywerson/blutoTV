@@ -2,12 +2,10 @@
 
 # Created with ❤️ by Neywerson
 # Site: https://github.com/Neywerson
-# Last Update: 31-03-2025 03:09:53
+# Last Update: 01-04-2025 03:09:57
 
 #EXTINF:-1 channel-id="62e925bc68d18a00077bb990" tvg-id="62e925bc68d18a00077bb990" tvg-chno="254" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/62e925bc68d18a00077bb990/colorLogoPNG.png" group-title="True Crime", 48 Hours
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e925bc68d18a00077bb990/master.m3u8?CreatedWithS2by=Neywerson&country=CA&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 channel-id="63c9550df13a9b00078677a7" tvg-id="63c9550df13a9b00078677a7" tvg-chno="708" tvg-name="Adventure Sports TV" tvg-logo="https://images.pluto.tv/channels/63c9550df13a9b00078677a7/colorLogoPNG.png" group-title="Sports", Adventure Sports TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c9550df13a9b00078677a7/master.m3u8?CreatedWithS2by=Neywerson&country=CA&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 channel-id="63e36b374e83e70008987c58" tvg-id="63e36b374e83e70008987c58" tvg-chno="262" tvg-name="Aftershock" tvg-logo="https://images.pluto.tv/channels/63e36b374e83e70008987c58/colorLogoPNG.png" group-title="True Crime", Aftershock
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63e36b374e83e70008987c58/master.m3u8?CreatedWithS2by=Neywerson&country=CA&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 channel-id="62e90db65e8e770007382a50" tvg-id="62e90db65e8e770007382a50" tvg-chno="790" tvg-name="Alerte à Malibu" tvg-logo="https://images.pluto.tv/channels/62e90db65e8e770007382a50/colorLogoPNG.png" group-title="En Français", Alerte à Malibu
